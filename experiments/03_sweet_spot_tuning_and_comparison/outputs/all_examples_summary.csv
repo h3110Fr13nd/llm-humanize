@@ -1,0 +1,136 @@
+Doc_ID,Title,Domain,Strategy,Entity_Recall_%,Gen_PPL,Dist_1,Snippet
+01_space_telescopes,The Evolution of Space Telescopes: Hubble and JWST,Astronomy,Top-1 (Greedy),9.090909090909092,1.6439570188522339,0.6941176470588235,"Here's a summary of the article's key points:
+
+**Development of Astronomical Space Telescopes:**
+
+* Hubble Space Telesco..."
+01_space_telescopes,The Evolution of Space Telescopes: Hubble and JWST,Astronomy,Standard Top-P (0.9),9.090909090909092,1.7069522142410278,0.6941176470588235,"Here's a summary of the article:
+
+**The Development of Astronomical Space Telescopes:**
+
+The Hubble Space Telescope (HST..."
+01_space_telescopes,The Evolution of Space Telescopes: Hubble and JWST,Astronomy,Pure Post-Top-P (0.5),0.0,13.125114440917969,0.9047619047619048,"What an excellent article. Here is the full summary, please read the first 15 lines."
+01_space_telescopes,The Evolution of Space Telescopes: Hubble and JWST,Astronomy,Tuned Hybrid,9.090909090909092,2.217534065246582,0.5529411764705883,"To write a concise, professional summary of the development of the Hubble Space Telescope, I'll use the following approa..."
+02_crispr_gene_editing,CRISPR-Cas9 Bacterial Immunity to Precision Gene Editing,Biotechnology,Top-1 (Greedy),35.294117647058826,1.1290241479873657,0.8941176470588236,"Here's a rewritten summary of the article:
+
+CRISPR-Cas9 revolutionized molecular biology as a targeted genome editing pl..."
+02_crispr_gene_editing,CRISPR-Cas9 Bacterial Immunity to Precision Gene Editing,Biotechnology,Standard Top-P (0.9),35.294117647058826,1.1554468870162964,0.8941176470588236,"Here's a summary of the article:
+
+CRISPR-Cas9 revolutionized molecular biology as a targeted genome editing platform. Di..."
+02_crispr_gene_editing,CRISPR-Cas9 Bacterial Immunity to Precision Gene Editing,Biotechnology,Pure Post-Top-P (0.5),11.76470588235294,28.239221572875977,0.6941176470588235,"To write this summary:
+
+2010
+2.
+Cisploride: a tool to measure gene regulation and disease diagnosis in clinical samples
+..."
+02_crispr_gene_editing,CRISPR-Cas9 Bacterial Immunity to Precision Gene Editing,Biotechnology,Tuned Hybrid,11.76470588235294,2.457125663757324,0.6823529411764706,"The breakthrough was a pivotal moment in the history of genetics, revolutionizing the field of molecular biology and ena..."
+03_quantum_computing,Quantum Supremacy and Quantum Processors,Quantum Physics,Top-1 (Greedy),6.666666666666667,1.4811409711837769,0.7176470588235294,"Here's a rewritten summary of the article:
+
+**Quantum Computing: A Revolutionary Breakthrough**
+
+Quantum computing, a fi..."
+03_quantum_computing,Quantum Supremacy and Quantum Processors,Quantum Physics,Standard Top-P (0.9),13.333333333333334,1.5782980918884277,0.7529411764705882,"Here's a rewritten summary of the article:
+
+**Quantum Computing: A Revolutionary Breakthrough**
+
+Quantum computing, a fi..."
+03_quantum_computing,Quantum Supremacy and Quantum Processors,Quantum Physics,Pure Post-Top-P (0.5),6.666666666666667,15.350090026855469,0.9411764705882353,Please review this summary of Quantum computing. It highlights key milestones and applications.
+03_quantum_computing,Quantum Supremacy and Quantum Processors,Quantum Physics,Tuned Hybrid,6.666666666666667,2.204676628112793,0.6705882352941176,"To rewrite this article into a concise, professional summary, I'd start by acknowledging the importance of understanding..."
+04_printing_press,Johannes Gutenberg and the Printing Revolution,History,Top-1 (Greedy),38.46153846153847,1.206329584121704,0.788235294117647,"Here's a rewritten summary of the article:
+
+The invention of the movable metal type mechanical printing press by Johanne..."
+04_printing_press,Johannes Gutenberg and the Printing Revolution,History,Standard Top-P (0.9),38.46153846153847,1.206329584121704,0.788235294117647,"Here's a rewritten summary of the article:
+
+The invention of the movable metal type mechanical printing press by Johanne..."
+04_printing_press,Johannes Gutenberg and the Printing Revolution,History,Pure Post-Top-P (0.5),0.0,13.74847412109375,0.8076923076923077,"To write this summary accurately and effectively:
+
+ I would break the text up in 3 paragraphs. I'd begin by describing w..."
+04_printing_press,Johannes Gutenberg and the Printing Revolution,History,Tuned Hybrid,23.076923076923077,1.7216808795928955,0.7764705882352941,"To rewrite this article into a concise, professional summary:
+
+The invention of the movable metal type mechanical printi..."
+05_transformer_architecture,The Transformer Neural Network Architecture,Artificial Intelligence,Top-1 (Greedy),50.0,1.155394196510315,0.8235294117647058,"Here's a rewritten summary of the article:
+
+**The Transformer Architecture**
+
+The Transformer architecture introduced a ..."
+05_transformer_architecture,The Transformer Neural Network Architecture,Artificial Intelligence,Standard Top-P (0.9),14.285714285714285,1.4369523525238037,0.7411764705882353,"Here's a rewritten summary of the Transformer architecture:
+
+**Overview**
+
+The Transformer architecture, introduced in 2..."
+05_transformer_architecture,The Transformer Neural Network Architecture,Artificial Intelligence,Pure Post-Top-P (0.5),0.0,18.830533981323242,0.8352941176470589,"To write this summary accurately and effectively:
+
+ I would break it into sections and create subsections or headings fo..."
+05_transformer_architecture,The Transformer Neural Network Architecture,Artificial Intelligence,Tuned Hybrid,14.285714285714285,2.2733547687530518,0.8352941176470589,"To rewrite this article into a concise, professional summary, I'd recommend:
+
+**Key takeaways:**
+
+1. **Automatic text ge..."
+06_voyager_mission,The Voyager Interstellar Mission and Golden Record,Space Exploration,Top-1 (Greedy),11.11111111111111,1.7329936027526855,0.6352941176470588,"Here's a summary of the article:
+
+**The Voyager Program**
+
+The Voyager program, launched in 1977, was a groundbreaking m..."
+06_voyager_mission,The Voyager Interstellar Mission and Golden Record,Space Exploration,Standard Top-P (0.9),11.11111111111111,1.7329936027526855,0.6352941176470588,"Here's a summary of the article:
+
+**The Voyager Program**
+
+The Voyager program, launched in 1977, was a groundbreaking m..."
+06_voyager_mission,The Voyager Interstellar Mission and Golden Record,Space Exploration,Pure Post-Top-P (0.5),0.0,41.23827362060547,0.8979591836734694,"**Title: The Journey to Intergalaxies**
+
+ Subheading
+A Global Voynium of a Year, in One Brief Sentence!
+
+ Verification
+
+..."
+06_voyager_mission,The Voyager Interstellar Mission and Golden Record,Space Exploration,Tuned Hybrid,38.88888888888889,1.101599931716919,0.6352941176470588,NASA's Voyager program remains one of the most audacious deep-space exploration ventures in human history. Launched in l...
+07_penicillin_antibiotics,The Discovery and Mass Production of Penicillin,Medicine,Top-1 (Greedy),31.25,1.5396013259887695,0.7411764705882353,"The discovery of penicillin revolutionized the field of medicine, and its impact can still be felt today. Here's a conci..."
+07_penicillin_antibiotics,The Discovery and Mass Production of Penicillin,Medicine,Standard Top-P (0.9),43.75,1.1538137197494507,0.8235294117647058,"The discovery of penicillin revolutionized the field of medicine and saved countless lives. On September 3, 1928, Alexan..."
+07_penicillin_antibiotics,The Discovery and Mass Production of Penicillin,Medicine,Pure Post-Top-P (0.5),0.0,26.05207633972168,1.0,**Recital:** The Discovery and Treatment Revolutionize the Human Condition.
+07_penicillin_antibiotics,The Discovery and Mass Production of Penicillin,Medicine,Tuned Hybrid,37.5,1.269913911819458,0.8352941176470589,"Please rewrite this article into a concise, professional summary:
+
+On September 3, 1928, Alexander Fleming returned to h..."
+08_plate_tectonics,Continental Drift to Modern Plate Tectonics,Geology,Top-1 (Greedy),42.857142857142854,1.0625181198120117,0.8117647058823529,"The theory of plate tectonics unifies our understanding of earthquakes, volcanic eruptions, mountain building, and ocean..."
+08_plate_tectonics,Continental Drift to Modern Plate Tectonics,Geology,Standard Top-P (0.9),42.857142857142854,1.0625181198120117,0.8117647058823529,"The theory of plate tectonics unifies our understanding of earthquakes, volcanic eruptions, mountain building, and ocean..."
+08_plate_tectonics,Continental Drift to Modern Plate Tectonics,Geology,Pure Post-Top-P (0.5),0.0,24.27120590209961,0.7058823529411765,"Hans-Willeke Henness, who proposed continental plate motion as evidence of the Mesoarchaea theory of continental plate m..."
+08_plate_tectonics,Continental Drift to Modern Plate Tectonics,Geology,Tuned Hybrid,14.285714285714285,1.681697964668274,0.7647058823529411,What a monumental task! The concept of plate tectonics has revolutionized our understanding of the Earth's internal stru...
+09_apollo_guidance_computer,The Apollo Guidance Computer and Real-Time Software,Aerospace,Top-1 (Greedy),37.5,1.248590350151062,0.6470588235294118,"Here's a rewritten summary of the Apollo Guidance Computer (AGC) article:
+
+**The Apollo Guidance Computer (AGC) - A Pion..."
+09_apollo_guidance_computer,The Apollo Guidance Computer and Real-Time Software,Aerospace,Standard Top-P (0.9),50.0,1.1002904176712036,0.7529411764705882,The Apollo Guidance Computer (AGC) was a pioneering achievement in computer engineering and software architecture that e...
+09_apollo_guidance_computer,The Apollo Guidance Computer and Real-Time Software,Aerospace,Pure Post-Top-P (0.5),0.0,20.292858123779297,0.7529411764705882,"To write this summary accurately and effectively:
+
+ I would break it into sections and create sub-submissions based upon..."
+09_apollo_guidance_computer,The Apollo Guidance Computer and Real-Time Software,Aerospace,Tuned Hybrid,12.5,2.183500289916992,0.7058823529411765,"To rewrite this article into a concise, professional summary, I'd suggest the following steps:
+
+1. Identify the key hist..."
+10_roman_concrete,Ancient Roman Concrete and Volcanic Ash Chemistry,Materials Science,Top-1 (Greedy),23.52941176470588,1.5222405195236206,0.7647058823529411,"The ancient Romans, known for their innovative construction techniques, employed a combination of slaked lime and volcan..."
+10_roman_concrete,Ancient Roman Concrete and Volcanic Ash Chemistry,Materials Science,Standard Top-P (0.9),17.647058823529413,1.8475323915481567,0.7294117647058823,"The ancient Romans, known for their innovative construction techniques, employed a combination of slaked lime and volcan..."
+10_roman_concrete,Ancient Roman Concrete and Volcanic Ash Chemistry,Materials Science,Pure Post-Top-P (0.5),0.0,22.57423973083496,0.7411764705882353,"To fully comprehend this historical account of Roman construction and construction technology in 1920, let us dive deepe..."
+10_roman_concrete,Ancient Roman Concrete and Volcanic Ash Chemistry,Materials Science,Tuned Hybrid,35.294117647058826,1.0649110078811646,0.8588235294117647,"Ancient Roman concrete, known as opus caementicium, exhibits exceptional durability that has endured intact for over two..."
+11_arpanet_to_internet,ARPANET to the Global Internet Protocol,Computer Networking,Top-1 (Greedy),19.047619047619047,1.1617382764816284,0.7764705882352941,"Here's a rewritten summary of the article:
+
+The global internet evolved from military research into decentralized packet..."
+11_arpanet_to_internet,ARPANET to the Global Internet Protocol,Computer Networking,Standard Top-P (0.9),9.523809523809524,1.2791550159454346,0.788235294117647,"Here's a rewritten summary of the article:
+
+**The Global Internet Evolution from Military Research to Decentralized Pack..."
+11_arpanet_to_internet,ARPANET to the Global Internet Protocol,Computer Networking,Pure Post-Top-P (0.5),0.0,25.313825607299805,0.7258064516129032,"To write this summary:
+
+2004: ""1.25 years of experimentation with packet-based network design and architecture.
+1.125 ye..."
+11_arpanet_to_internet,ARPANET to the Global Internet Protocol,Computer Networking,Tuned Hybrid,4.761904761904762,1.861331820487976,0.6235294117647059,"To rewrite this article into a concise, professional summary, I'd use the following structure:
+
+I. Introduction
+
+* Brief..."
+12_calvin_cycle_photosynthesis,The Calvin-Benson Cycle and Carbon Fixation,Biochemistry,Top-1 (Greedy),36.84210526315789,1.3353395462036133,0.7294117647058823,"The Calvin-Benson-Bassham cycle is a crucial process in photosynthesis, where carbon dioxide is converted into organic c..."
+12_calvin_cycle_photosynthesis,The Calvin-Benson Cycle and Carbon Fixation,Biochemistry,Standard Top-P (0.9),42.10526315789473,1.4700597524642944,0.6823529411764706,"The Calvin-Benson-Bassham cycle is a crucial process in photosynthesis, where carbon dioxide is converted into organic c..."
+12_calvin_cycle_photosynthesis,The Calvin-Benson Cycle and Carbon Fixation,Biochemistry,Pure Post-Top-P (0.5),0.0,24.35724449157715,0.8235294117647058,"To write this summary:
+
+2016
+A while ago
+Calcium hydroxybutylphosphate is the anhysterectic salt, meaning that when the ..."
+12_calvin_cycle_photosynthesis,The Calvin-Benson Cycle and Carbon Fixation,Biochemistry,Tuned Hybrid,36.84210526315789,2.3845221996307373,0.7529411764705882,"To rewrite this article into a concise, professional summary, I'd use the following framework:
+
+The Calvin-Benson-Bassha..."

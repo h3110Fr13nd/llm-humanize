@@ -1,0 +1,14 @@
+{
+  "greedy": {
+    "round1_recall": 0.4235484294114325,
+    "half_life_round": null
+  },
+  "top_p_0.9": {
+    "round1_recall": 0.2636975943541991,
+    "half_life_round": null
+  },
+  "hybrid_tau0.5_x0.4": {
+    "round1_recall": 0.2268362349438201,
+    "half_life_round": 5
+  }
+}

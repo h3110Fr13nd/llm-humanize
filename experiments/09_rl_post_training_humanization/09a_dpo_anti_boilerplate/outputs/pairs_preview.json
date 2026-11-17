@@ -1,0 +1,21 @@
+{
+  "n_train": 40,
+  "n_test": 8,
+  "sample": [
+    {
+      "prompt": "ially, a spherical aberration of 2.2 micrometers prevented sharp focus until NASA astronauts installed COSTAR in December 1993 during STS-61. In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies.\n<|im_end|>\n<|im_start|>assistant\n",
+      "chosen": "A brilliant and enthusiastic team of scientists and engineers at the National Aeronautics and Space Administration (NASA) has been working tirelessly to develop the next generation of space telescopes, known as the James Webb Space Telescope (JWST). This ambitious project aims to launch in the late 2020s, and the team has been working in close collaboration with NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA) to overcome the technical challenges.\n\nThe JWST will",
+      "rejected": "Here's a rewritten version of the text:\n\nThe development of astronomical space telescopes represents one of humanity's greatest scientific achievements. The Hubble Space Telescope was deployed into Low Earth Orbit at an altitude of approximately 540 kilometers by Space Shuttle Discovery on April 24, 1990. Hubble featured a 2.4-meter primary mirror. Initially, a spherical aberration of 2.2 micrometers prevented sharp focus until NASA astronauts installed COSTAR in December"
+    },
+    {
+      "prompt": "ially, a spherical aberration of 2.2 micrometers prevented sharp focus until NASA astronauts installed COSTAR in December 1993 during STS-61. In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies.\n<|im_end|>\n<|im_start|>assistant\n",
+      "chosen": "To achieve this, you can use a dictionary to map the words to their corresponding Python functions.\n\n```python\ndef get_stars_from_image(image):\n    stars = image.split()\n    stars_list = [star.split(' ')[1] for star in stars]\n    return stars_list\n```",
+      "rejected": "Here's a rewritten version of the text:\n\nThe development of astronomical space telescopes represents one of humanity's greatest scientific achievements. The Hubble Space Telescope was deployed into Low Earth Orbit at an altitude of approximately 540 kilometers by Space Shuttle Discovery on April 24, 1990. Hubble featured a 2.4-meter primary mirror. Initially, a spherical aberration of 2.2 micrometers prevented sharp focus until NASA astronauts installed COSTAR in December"
+    },
+    {
+      "prompt": "2 (L2), 1.5 million kilometers from Earth, JWST features a 6.5-meter gold-coated beryllium mirror and a five-layer Kapton sunshield cooling instruments below 50 Kelvin. Its MIRI instrument is actively refrigerated to 7 Kelvin.\n<|im_end|>\n<|im_start|>assistant\n",
+      "chosen": "When writing a sentence or paragraph, it's essential to consider the sentence's function and structure. Here, we'll explore some ways to structure a sentence that effectively conveys the sentence's function and structure.\n\n**Sentence Structure:**\n\n* A sentence with a clear subject and a predicate will create a cohesive unit.\n* A sentence with a complex sentence or a series of sentences will create a more nuanced idea.\n* A sentence with a complex sentence or a series of sentences will be",
+      "rejected": "Here's a rewritten version of the sentence:\n\n\"Later, observations of Type Ia supernovae in 1998 proved the universe's expansion is accelerating due to dark energy.\"\n\nThe rewritten sentence is:\n\n\"Later, observations of Type Ia supernovae in 1998 proved the universe's expansion is accelerating due to dark energy.\"\n\nThe rewritten sentence is:\n\n\"Later, observations of Type Ia supernovae in 199"
+    }
+  ]
+}

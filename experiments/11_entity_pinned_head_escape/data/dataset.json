@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01_space_telescopes",
+    "title": "The Evolution of Space Telescopes: Hubble and JWST",
+    "domain": "Astronomy",
+    "text": "The development of astronomical space telescopes represents one of humanity's greatest scientific achievements. The Hubble Space Telescope was deployed into Low Earth Orbit at an altitude of approximately 540 kilometers by Space Shuttle Discovery on April 24, 1990. Hubble featured a 2.4-meter primary mirror. Initially, a spherical aberration of 2.2 micrometers prevented sharp focus until NASA astronauts installed COSTAR in December 1993 during STS-61. In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies. Later, observations of Type Ia supernovae in 1998 proved the universe's expansion is accelerating due to dark energy. In 2021, NASA launched the James Webb Space Telescope (JWST) aboard an Ariane 5 rocket from Kourou on December 25, 2021. Positioned at Lagrange Point 2 (L2), 1.5 million kilometers from Earth, JWST features a 6.5-meter gold-coated beryllium mirror and a five-layer Kapton sunshield cooling instruments below 50 Kelvin. Its MIRI instrument is actively refrigerated to 7 Kelvin.",
+    "entities": ["Hubble", "1990", "540", "2.4-meter", "COSTAR", "1993", "1995", "Deep Field", "1998", "dark energy", "JWST", "6.5-meter", "beryllium", "L2", "1.5 million", "Kapton", "50 Kelvin", "MIRI", "7 Kelvin", "December 25, 2021", "Ariane 5", "Kourou"]
+  },
+  {
+    "id": "02_crispr_gene_editing",
+    "title": "CRISPR-Cas9 Bacterial Immunity to Precision Gene Editing",
+    "domain": "Biotechnology",
+    "text": "CRISPR-Cas9 revolutionized molecular biology as a targeted genome editing platform. Discovered originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections. In August 2012, researchers Emmanuelle Charpentier and Jennifer Doudna published their breakthrough paper in Science demonstrating that the Cas9 endonuclease could be programmed using a synthetic single-guide RNA (sgRNA) to cut double-stranded DNA at exact genomic coordinates adjacent to a protospacer adjacent motif (PAM). For this discovery, Charpentier and Doudna were awarded the Nobel Prize in Chemistry in 2020. In December 2023, regulatory agencies in the United Kingdom and the United States FDA approved Casgevy, the world's first CRISPR-based clinical gene therapy, developed by Vertex Pharmaceuticals and CRISPR Therapeutics to cure sickle cell disease and transfusion-dependent beta-thalassemia.",
+    "entities": ["CRISPR", "Cas9", "Charpentier", "Doudna", "2012", "Science", "single-guide RNA", "sgRNA", "PAM", "Nobel Prize", "2020", "2023", "FDA", "Casgevy", "Vertex", "sickle cell", "beta-thalassemia"]
+  },
+  {
+    "id": "03_quantum_computing",
+    "title": "Quantum Supremacy and Quantum Processors",
+    "domain": "Quantum Physics",
+    "text": "Quantum computing harnesses the principles of quantum mechanics—namely superposition, entanglement, and quantum interference—to perform calculations exponentially faster than classical supercomputers for specific algorithms. While classical computers encode information in binary bits (0 or 1), quantum processors utilize quantum bits or qubits. In 1994, mathematician Peter Shor formulated Shor's algorithm, proving that an ideal quantum computer could factor large prime numbers in polynomial time, threatening classical RSA cryptography. In October 2019, Google Quantum AI announced in Nature that its Sycamore processor, comprising 53 superconducting transmon qubits cooled to 15 millikelvin, achieved quantum supremacy by performing a benchmark random circuit sampling calculation in 200 seconds that would have required IBM's Summit supercomputer approximately 10,000 years to compute.",
+    "entities": ["quantum computing", "superposition", "entanglement", "qubits", "1994", "Shor's algorithm", "RSA", "2019", "Google", "Sycamore", "53", "transmon", "15 millikelvin", "quantum supremacy", "Summit"]
+  },
+  {
+    "id": "04_printing_press",
+    "title": "Johannes Gutenberg and the Printing Revolution",
+    "domain": "History",
+    "text": "The invention of the movable metal type mechanical printing press by Johannes Gutenberg in Mainz, Germany, around 1440 transformed European civilization. Prior to Gutenberg, books were laboriously transcribed by hand by scribes or carved into woodblocks, making written knowledge prohibitively scarce and expensive. Gutenberg combined movable type cast from a lead-tin-antimony alloy with oil-based ink and an adapted wooden screw agricultural press. In 1455, Gutenberg completed his masterwork, the 42-Line Gutenberg Bible, printing approximately 180 copies on paper and vellum. The rapid spread of printing presses across Europe catalyzed the Renaissance, facilitated Martin Luther's Protestant Reformation in 1517, and accelerated the Scientific Revolution by allowing rapid, accurate dissemination of empirical discoveries.",
+    "entities": ["Johannes Gutenberg", "Mainz", "1440", "movable type", "alloy", "oil-based ink", "1455", "42-Line", "Gutenberg Bible", "Renaissance", "Martin Luther", "1517", "Scientific Revolution"]
+  },
+  {
+    "id": "05_transformer_architecture",
+    "title": "The Transformer Neural Network Architecture",
+    "domain": "Artificial Intelligence",
+    "text": "The Transformer architecture introduced a monumental paradigm shift in artificial intelligence and natural language processing. In June 2017, a team of researchers at Google Brain and Google Research led by Ashish Vaswani published 'Attention Is All You Need' at the NeurIPS conference. The paper dispensed with traditional recurrent neural networks (RNNs) and convolutional networks (CNNs), relying entirely on self-attention mechanisms to model relationships between all tokens in a sequence simultaneously. The architecture introduced multi-head attention, scaled dot-product attention, sinusoidal positional encodings, and feed-forward sublayers with residual connections. By enabling massive parallel processing across GPUs during training, Transformers unlocked the modern era of large language models including OpenAI's GPT family, Google's Gemini, and Anthropic's Claude.",
+    "entities": ["Transformer", "2017", "Google Brain", "Vaswani", "Attention Is All You Need", "NeurIPS", "recurrent neural networks", "RNN", "self-attention", "multi-head attention", "positional encodings", "GPT", "Gemini", "Claude"]
+  },
+  {
+    "id": "06_voyager_mission",
+    "title": "The Voyager Interstellar Mission and Golden Record",
+    "domain": "Space Exploration",
+    "text": "NASA's Voyager program remains one of the most audacious deep-space exploration ventures in human history. Launched in late summer 1977 from Cape Canaveral, Voyager 2 lifted off on August 20, 1977, followed by Voyager 1 on September 5, 1977, taking advantage of a rare planetary alignment occurring once every 175 years to tour Jupiter, Saturn, Uranus, and Neptune. Both spacecraft carry a 12-inch gold-plated copper phonograph record curated by Carl Sagan, containing 115 images, sounds of Earth, musical selections from Bach to Chuck Berry, and spoken greetings in 55 languages. In August 2012, Voyager 1 crossed the heliopause at 121 astronomical units (AU) from the Sun, becoming the first human-made object to enter interstellar space. Voyager 2 crossed into interstellar space in November 2018.",
+    "entities": ["Voyager", "1977", "Cape Canaveral", "Voyager 2", "August 20, 1977", "Voyager 1", "September 5, 1977", "175 years", "Jupiter", "Saturn", "Uranus", "Neptune", "Golden Record", "Carl Sagan", "2012", "heliopause", "interstellar space", "2018"]
+  },
+  {
+    "id": "07_penicillin_antibiotics",
+    "title": "The Discovery and Mass Production of Penicillin",
+    "domain": "Medicine",
+    "text": "The discovery of penicillin inaugurated the modern antibiotic era and drastically reduced mortality from bacterial infections. On September 3, 1928, Scottish bacteriologist Alexander Fleming returned to his laboratory at St. Mary's Hospital in London to find a contaminated Petri dish of Staphylococcus aureus. A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself. Although Fleming published his findings in 1929, he could not isolate or stabilize the active compound. A decade later in 1939, a team at Oxford University led by Howard Florey, Ernst Boris Chain, and Norman Heatley purified penicillin and demonstrated its therapeutic efficacy in mice and humans. In 1945, Fleming, Florey, and Chain shared the Nobel Prize in Physiology or Medicine.",
+    "entities": ["penicillin", "antibiotic", "September 3, 1928", "Alexander Fleming", "St. Mary's Hospital", "London", "Staphylococcus", "Penicillium notatum", "1929", "1939", "Oxford University", "Howard Florey", "Ernst Boris Chain", "Norman Heatley", "1945", "Nobel Prize"]
+  },
+  {
+    "id": "08_plate_tectonics",
+    "title": "Continental Drift to Modern Plate Tectonics",
+    "domain": "Geology",
+    "text": "The theory of plate tectonics unifies our understanding of earthquakes, volcanic eruptions, mountain building, and oceanic trenches. In 1912, German meteorologist Alfred Wegener proposed the hypothesis of continental drift, arguing that all modern continents were once united in a supercontinent called Pangaea before breaking apart during the Mesozoic era. Wegener pointed to matching geological strata and identical fossil species across the Atlantic. However, his hypothesis was widely rejected because he lacked a plausible driving physical mechanism. In the 1960s, marine geologist Harry Hess proposed seafloor spreading along mid-ocean ridges. Supported by magnetic anomaly stripes mapped by Frederick Vine and Drummond Matthews in 1963, geophysicists confirmed that Earth's lithosphere is divided into rigid tectonic plates driven by mantle convection.",
+    "entities": ["plate tectonics", "1912", "Alfred Wegener", "continental drift", "Pangaea", "Mesozoic", "Harry Hess", "seafloor spreading", "mid-ocean ridges", "1963", "Frederick Vine", "Drummond Matthews", "lithosphere", "mantle convection"]
+  },
+  {
+    "id": "09_apollo_guidance_computer",
+    "title": "The Apollo Guidance Computer and Real-Time Software",
+    "domain": "Aerospace",
+    "text": "The Apollo Guidance Computer (AGC) was a pioneering achievement in computer engineering and software architecture that enabled the Apollo 11 lunar landing. Designed at the MIT Instrumentation Laboratory under the leadership of Eldon Hall and software director Margaret Hamilton, the AGC was among the first computers to utilize silicon integrated circuits (ICs), employing approximately 5,600 NOR gates. Operating with a clock speed of 1.024 megahertz, the AGC had 2,048 words of RAM and 36,864 words of core rope memory woven by hand. During Apollo 11's descent on July 20, 1969, an overloaded radar system triggered famous 1201 and 1202 program alarms. Margaret Hamilton's asynchronous priority scheduling design allowed the AGC to drop low-priority radar tasks while preserving vital lunar thruster control routines, ensuring Neil Armstrong and Buzz Aldrin landed safely.",
+    "entities": ["Apollo Guidance Computer", "AGC", "Apollo 11", "MIT", "Eldon Hall", "Margaret Hamilton", "integrated circuits", "NOR gates", "1.024 megahertz", "core rope memory", "July 20, 1969", "1201", "1202", "priority scheduling", "Neil Armstrong", "Buzz Aldrin"]
+  },
+  {
+    "id": "10_roman_concrete",
+    "title": "Ancient Roman Concrete and Volcanic Ash Chemistry",
+    "domain": "Materials Science",
+    "text": "Ancient Roman concrete, known as opus caementicium, exhibits exceptional durability that has endured intact for over two millennia, surviving harsh maritime environments and seismic shocks. Roman builders combined slaked lime with volcanic ash known as pozzolana, harvested predominantly from volcanic deposits near Pozzuoli in the Gulf of Naples. Modern chemical analyses published in 2023 by researchers at MIT revealed that Romans utilized 'hot mixing' with quicklime (calcium oxide), forming millimetric lime clasts throughout the matrix. When cracks form and seawater infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures. Furthermore, reaction with seawater promotes the growth of rare aluminous tobermorite and phillipsite crystals, strengthening the concrete over time. This ancient material allowed Emperor Hadrian to build the Pantheon's 43.3-meter unreinforced dome in 125 AD, which remains the largest in the world.",
+    "entities": ["opus caementicium", "Roman concrete", "pozzolana", "Pozzuoli", "2023", "MIT", "hot mixing", "quicklime", "lime clasts", "calcium carbonate", "self-healing", "tobermorite", "phillipsite", "Pantheon", "43.3-meter", "125 AD", "Hadrian"]
+  },
+  {
+    "id": "11_arpanet_to_internet",
+    "title": "ARPANET to the Global Internet Protocol",
+    "domain": "Computer Networking",
+    "text": "The global internet evolved from military research into decentralized packet-switched communication networks during the Cold War. In 1969, the United States Department of Defense's Advanced Research Projects Agency (DARPA) established ARPANET. The first successful message was transmitted on October 29, 1969, between Leonard Kleinrock's laboratory at UCLA and Douglas Engelbart's SRI International system. In 1974, computer scientists Vinton Cerf and Robert Kahn published their seminal paper designing the Transmission Control Protocol (TCP), which was subsequently split into TCP and Internet Protocol (IP). On January 1, 1983, known as 'flag day,' ARPANET officially switched from the original NCP protocol to the TCP/IP protocol suite, creating the modern Internet. Tim Berners-Lee later developed the World Wide Web at CERN in 1989, introducing HTML, HTTP, and URLs.",
+    "entities": ["ARPANET", "DARPA", "1969", "October 29, 1969", "UCLA", "SRI", "1974", "Vinton Cerf", "Robert Kahn", "TCP", "IP", "TCP/IP", "January 1, 1983", "flag day", "NCP", "Tim Berners-Lee", "World Wide Web", "CERN", "1989", "HTML", "HTTP"]
+  },
+  {
+    "id": "12_calvin_cycle_photosynthesis",
+    "title": "The Calvin-Benson Cycle and Carbon Fixation",
+    "domain": "Biochemistry",
+    "text": "The Calvin-Benson-Bassham cycle constitutes the light-independent reactions of photosynthesis, converting inorganic carbon dioxide into organic carbohydrates. Deciphered between 1945 and 1954 by biochemists Melvin Calvin, James Bassham, and Andrew Benson at the University of California, Berkeley using radioactive carbon-14 (14C) isotope labeling and paper chromatography, the cycle operates within the stroma of plant chloroplasts. The initial carbon fixation step is catalyzed by the enzyme RuBisCO (ribulose-1,5-bisphosphate carboxylase-oxygenase), which carboxylates five-carbon ribulose 1,5-bisphosphate (RuBP) into an unstable six-carbon intermediate that splits into two molecules of 3-phosphoglycerate (3-PGA). Utilizing ATP and NADPH generated during the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P), yielding glucose precursors while regenerating RuBP. Melvin Calvin was awarded the Nobel Prize in Chemistry in 1961 for this foundational discovery.",
+    "entities": ["Calvin-Benson", "carbon fixation", "photosynthesis", "1945", "1954", "Melvin Calvin", "James Bassham", "Andrew Benson", "carbon-14", "stroma", "chloroplasts", "RuBisCO", "RuBP", "3-PGA", "ATP", "NADPH", "G3P", "Nobel Prize", "1961"]
+  }
+]

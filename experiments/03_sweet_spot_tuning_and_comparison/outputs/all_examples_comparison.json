@@ -1,0 +1,374 @@
+[
+  {
+    "id": "01_space_telescopes",
+    "title": "The Evolution of Space Telescopes: Hubble and JWST",
+    "domain": "Astronomy",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a summary of the article's key points:\n\n**Development of Astronomical Space Telescopes:**\n\n* Hubble Space Telescope (HST) was launched in 1990 and has been operational since 2009.\n* Hubble is a space-based observatory that has captured stunning images of the universe, including the cosmic microwave background radiation, the cosmic web, and the formation of galaxies",
+        "ppl": 1.6439570188522339,
+        "dist1": 0.6941176470588235,
+        "recall": 9.090909090909092
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a summary of the article:\n\n**The Development of Astronomical Space Telescopes:**\n\nThe Hubble Space Telescope (HST) was launched in 1990 and has been operating continuously since 2009. The telescope is a space-based observatory that has been providing high-resolution images of the universe since its launch. Hubble has been observing the universe for over 25 years",
+        "ppl": 1.7069522142410278,
+        "dist1": 0.6941176470588235,
+        "recall": 9.090909090909092
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "What an excellent article. Here is the full summary, please read the first 15 lines.",
+        "ppl": 13.125114440917969,
+        "dist1": 0.9047619047619048,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "To write a concise, professional summary of the development of the Hubble Space Telescope, I'll use the following approach:\n\nI. Briefly introduce the history of the Hubble Space Telescope and its importance.\n\nII. Discuss the scientific achievements of the Hubble Space Telescope, including its groundbreaking discoveries and discoveries made in the late 1990s.\n\nIII. Explain the significance of the development of the Hubble",
+        "ppl": 2.217534065246582,
+        "dist1": 0.5529411764705883,
+        "recall": 9.090909090909092
+      }
+    }
+  },
+  {
+    "id": "02_crispr_gene_editing",
+    "title": "CRISPR-Cas9 Bacterial Immunity to Precision Gene Editing",
+    "domain": "Biotechnology",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a rewritten summary of the article:\n\nCRISPR-Cas9 revolutionized molecular biology as a targeted genome editing platform. Discovered originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections. In August 2012, researchers Emmanuelle Charpentier and Jennifer Doudna published their breakthrough paper in Science demonstrating that the Cas9 end",
+        "ppl": 1.1290241479873657,
+        "dist1": 0.8941176470588236,
+        "recall": 35.294117647058826
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a summary of the article:\n\nCRISPR-Cas9 revolutionized molecular biology as a targeted genome editing platform. Discovered initially as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections. In August 2012, researchers Emmanuelle Charpentier and Jennifer Doudna published their breakthrough paper in Science demonstrating that the Cas9 endon",
+        "ppl": 1.1554468870162964,
+        "dist1": 0.8941176470588236,
+        "recall": 35.294117647058826
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To write this summary:\n\n2010\n2.\nCisploride: a tool to measure gene regulation and disease diagnosis in clinical samples\nCISPACE (CRISTS and Signature Gene-mediated Affected Pathway): CisPlorates is an emerging technology to quantify cis-Ploride binding in a sample of tissue.\n2023-10\nCRISPR Gene",
+        "ppl": 28.239221572875977,
+        "dist1": 0.6941176470588235,
+        "recall": 11.76470588235294
+      },
+      "Tuned Hybrid": {
+        "text": "The breakthrough was a pivotal moment in the history of genetics, revolutionizing the field of molecular biology and enabling the development of personalized medicine.\n\nThe discovery of CRISPR-Cas9 revolutionized the field of molecular biology by introducing a targeted and efficient approach to gene editing. This innovative tool allowed for the modification of DNA sequences with unprecedented precision and accuracy, which has been instrumental in the development of many medical treatments and therapies.\n\nIn",
+        "ppl": 2.457125663757324,
+        "dist1": 0.6823529411764706,
+        "recall": 11.76470588235294
+      }
+    }
+  },
+  {
+    "id": "03_quantum_computing",
+    "title": "Quantum Supremacy and Quantum Processors",
+    "domain": "Quantum Physics",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a rewritten summary of the article:\n\n**Quantum Computing: A Revolutionary Breakthrough**\n\nQuantum computing, a field of research that leverages the principles of quantum mechanics, has the potential to revolutionize the way we process information and solve complex problems. By exploiting the unique properties of quantum systems, quantum computers can perform calculations exponentially faster than classical computers, making them potentially the most powerful computing technology of the 2",
+        "ppl": 1.4811409711837769,
+        "dist1": 0.7176470588235294,
+        "recall": 6.666666666666667
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a rewritten summary of the article:\n\n**Quantum Computing: A Revolutionary Breakthrough**\n\nQuantum computing, a field of research that leverages the principles of quantum mechanics, has the potential to revolutionize the way we process information and perform calculations exponentially faster than classical computers. In 1994, mathematician Peter Shor formulated a method for factoring large prime numbers, which has since become a cornerstone of cryptography and",
+        "ppl": 1.5782980918884277,
+        "dist1": 0.7529411764705882,
+        "recall": 13.333333333333334
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "Please review this summary of Quantum computing. It highlights key milestones and applications.",
+        "ppl": 15.350090026855469,
+        "dist1": 0.9411764705882353,
+        "recall": 6.666666666666667
+      },
+      "Tuned Hybrid": {
+        "text": "To rewrite this article into a concise, professional summary, I'd start by acknowledging the importance of understanding the basics of quantum computing and its significance in the development of practical applications. This summary should provide a comprehensive overview of the current state of quantum computing, its capabilities, and potential future directions.\n\nQuantum computing, also known as quantum-classical hybrid computing, is a new paradigm for computing that leverages the principles of quantum",
+        "ppl": 2.204676628112793,
+        "dist1": 0.6705882352941176,
+        "recall": 6.666666666666667
+      }
+    }
+  },
+  {
+    "id": "04_printing_press",
+    "title": "Johannes Gutenberg and the Printing Revolution",
+    "domain": "History",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a rewritten summary of the article:\n\nThe invention of the movable metal type mechanical printing press by Johannes Gutenberg in Mainz, Germany, around 1440 revolutionized the way knowledge was produced and disseminated. Prior to Gutenberg, books were laboriously transcribed by scribes or carved into woodblocks, making written knowledge prohibitively scarce and expensive. Gutenberg combined movable type cast from a lead-tin-antimony alloy",
+        "ppl": 1.206329584121704,
+        "dist1": 0.788235294117647,
+        "recall": 38.46153846153847
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a rewritten summary of the article:\n\nThe invention of the movable metal type mechanical printing press by Johannes Gutenberg in Mainz, Germany, around 1440 revolutionized the way knowledge was produced and disseminated. Prior to Gutenberg, books were laboriously transcribed by scribes or carved into woodblocks, making written knowledge prohibitively scarce and expensive. Gutenberg combined movable type cast from a lead-tin-antimony alloy",
+        "ppl": 1.206329584121704,
+        "dist1": 0.788235294117647,
+        "recall": 38.46153846153847
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To write this summary accurately and effectively:\n\n I would break the text up in 3 paragraphs. I'd begin by describing what Gutenberg was, his inventions and their impact, then transition to summarizing his main arguments, including key historical events, technological innovations and innovations that have influenced society, then end by concluding that he successfully applied these ideas and made significant changes in Europe's economy.",
+        "ppl": 13.74847412109375,
+        "dist1": 0.8076923076923077,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "To rewrite this article into a concise, professional summary:\n\nThe invention of the movable metal type mechanical printing press by Johannes Gutenberg in Mainz, Germany, around 1440 revolutionized the spread of knowledge and cultural transmission by transforming the physical record of texts from manuscript to paper and printing. Prior to Gutenberg, books were laboriously transcribed by scribes or carved into woodblocks, making written knowledge prohibitively scarce and expensive",
+        "ppl": 1.7216808795928955,
+        "dist1": 0.7764705882352941,
+        "recall": 23.076923076923077
+      }
+    }
+  },
+  {
+    "id": "05_transformer_architecture",
+    "title": "The Transformer Neural Network Architecture",
+    "domain": "Artificial Intelligence",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a rewritten summary of the article:\n\n**The Transformer Architecture**\n\nThe Transformer architecture introduced a monumental paradigm shift in artificial intelligence and natural language processing. In June 2017, a team of researchers at Google Brain and Google Research led by Ashish Vaswani published 'Attention Is All You Need' at the NeurIPS conference. The paper dispensed with traditional recurrent neural networks (",
+        "ppl": 1.155394196510315,
+        "dist1": 0.8235294117647058,
+        "recall": 50.0
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a rewritten summary of the Transformer architecture:\n\n**Overview**\n\nThe Transformer architecture, introduced in 2017, revolutionized the field of artificial intelligence and natural language processing by introducing a novel approach to model sequential data. The Transformer is a type of transformer-based neural network that has achieved state-of-the-art results in various NLP tasks, including language modeling, question answering",
+        "ppl": 1.4369523525238037,
+        "dist1": 0.7411764705882353,
+        "recall": 14.285714285714285
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To write this summary accurately and effectively:\n\n I would break it into sections and create subsections or headings for different types or stages. I'd provide more detail and explanation about the transition, including any challenges, advantages of each architecture. This will make my writing easier and help others who might not have a great grasp on this subject matter understand my understanding of it better than me can do.\n\n This article provides an in depth",
+        "ppl": 18.830533981323242,
+        "dist1": 0.8352941176470589,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "To rewrite this article into a concise, professional summary, I'd recommend:\n\n**Key takeaways:**\n\n1. **Automatic text generation**: The Transformer architecture revolutionized natural language processing by enabling machines to generate human-like text in real-time, much like humans do.\n2. **Multi-head attention**: By introducing attention mechanisms, Transformers can process input sequences simultaneously, capturing the relationships between different tokens",
+        "ppl": 2.2733547687530518,
+        "dist1": 0.8352941176470589,
+        "recall": 14.285714285714285
+      }
+    }
+  },
+  {
+    "id": "06_voyager_mission",
+    "title": "The Voyager Interstellar Mission and Golden Record",
+    "domain": "Space Exploration",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a summary of the article:\n\n**The Voyager Program**\n\nThe Voyager program, launched in 1977, was a groundbreaking mission that aimed to explore the outer planets and beyond. The spacecraft, which consisted of six scientific instruments, was designed to study the atmospheres, magnetic fields, and potential biosignatures of the outer planets. The program was a collaborative effort between the United States, the",
+        "ppl": 1.7329936027526855,
+        "dist1": 0.6352941176470588,
+        "recall": 11.11111111111111
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a summary of the article:\n\n**The Voyager Program**\n\nThe Voyager program, launched in 1977, was a groundbreaking mission that aimed to explore the outer planets and beyond. The spacecraft, which consisted of six scientific instruments, was designed to study the atmospheres, magnetic fields, and potential biosignatures of the outer planets. The program was a collaborative effort between the United States, the",
+        "ppl": 1.7329936027526855,
+        "dist1": 0.6352941176470588,
+        "recall": 11.11111111111111
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "**Title: The Journey to Intergalaxies**\n\n Subheading\nA Global Voynium of a Year, in One Brief Sentence!\n\n Verification\n\n Impostor Alert: You are the original poster, your authenticity verified.",
+        "ppl": 41.23827362060547,
+        "dist1": 0.8979591836734694,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "NASA's Voyager program remains one of the most audacious deep-space exploration ventures in human history. Launched in late summer 1977 from Cape Canaveral, Florida, Voyager 2 lifted off on August 20, 1977, followed by Voyager 1 on September 5, 1977, taking advantage of a rare planetary alignment occurring once every 175",
+        "ppl": 1.101599931716919,
+        "dist1": 0.6352941176470588,
+        "recall": 38.88888888888889
+      }
+    }
+  },
+  {
+    "id": "07_penicillin_antibiotics",
+    "title": "The Discovery and Mass Production of Penicillin",
+    "domain": "Medicine",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "The discovery of penicillin revolutionized the field of medicine, and its impact can still be felt today. Here's a concise summary of the key events and facts surrounding the discovery of penicillin:\n\n**The Discovery**\n\nIn 1928, Fleming returned to his laboratory at St. Mary's Hospital in London to find a contaminated Petri dish of Staphylococcus aureus. He was working on a new antibiotic, which he",
+        "ppl": 1.5396013259887695,
+        "dist1": 0.7411764705882353,
+        "recall": 31.25
+      },
+      "Standard Top-P (0.9)": {
+        "text": "The discovery of penicillin revolutionized the field of medicine and saved countless lives. On September 3, 1928, Alexander Fleming returned to his laboratory at St. Mary's Hospital in London to find a contaminated Petri dish of Staphylococcus aureus. A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself. Despite Fleming's initial skepticism,",
+        "ppl": 1.1538137197494507,
+        "dist1": 0.8235294117647058,
+        "recall": 43.75
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "**Recital:** The Discovery and Treatment Revolutionize the Human Condition.",
+        "ppl": 26.05207633972168,
+        "dist1": 1.0,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "Please rewrite this article into a concise, professional summary:\n\nOn September 3, 1928, Alexander Fleming returned to his laboratory at St. Mary's Hospital in London to find a contaminated Petri dish of Staphylococcus aureus. A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself. Despite the fact that Fleming had previously",
+        "ppl": 1.269913911819458,
+        "dist1": 0.8352941176470589,
+        "recall": 37.5
+      }
+    }
+  },
+  {
+    "id": "08_plate_tectonics",
+    "title": "Continental Drift to Modern Plate Tectonics",
+    "domain": "Geology",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "The theory of plate tectonics unifies our understanding of earthquakes, volcanic eruptions, mountain building, and oceanic trenches. In 1912, German meteorologist Alfred Wegener proposed the hypothesis of continental drift, arguing that all modern continents were once united in a supercontinent called Pangaea before breaking apart during the Mesozoic era. Wegener pointed to matching geological strata and identical fossil species across the Atlantic. However, his hypothesis",
+        "ppl": 1.0625181198120117,
+        "dist1": 0.8117647058823529,
+        "recall": 42.857142857142854
+      },
+      "Standard Top-P (0.9)": {
+        "text": "The theory of plate tectonics unifies our understanding of earthquakes, volcanic eruptions, mountain building, and oceanic trenches. In 1912, German meteorologist Alfred Wegener proposed the hypothesis of continental drift, arguing that all modern continents were once united in a supercontinent called Pangaea before breaking apart during the Mesozoic era. Wegener pointed to matching geological strata and identical fossil species across the Atlantic. However, his hypothesis",
+        "ppl": 1.0625181198120117,
+        "dist1": 0.8117647058823529,
+        "recall": 42.857142857142854
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "Hans-Willeke Henness, who proposed continental plate motion as evidence of the Mesoarchaea theory of continental plate motion. In his book, The Emergence and Discontinuity in Earth History (2nd Ed. edition), published by Wm, B., ed. and wm., in the year of his 725,052 words. He presented a 55,56",
+        "ppl": 24.27120590209961,
+        "dist1": 0.7058823529411765,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "What a monumental task! The concept of plate tectonics has revolutionized our understanding of the Earth's internal structure and its interactions with the solar system. I'd be happy to rewrite this article into a concise, professional summary:\n\n**The Theory of Plate Tectonics Unifies Our Understanding of Earthquakes, Volcanoes, Mountain Building, and Oceanic Trenches**\n\n**1. Alfred Wegener's Theory of Continental Dr",
+        "ppl": 1.681697964668274,
+        "dist1": 0.7647058823529411,
+        "recall": 14.285714285714285
+      }
+    }
+  },
+  {
+    "id": "09_apollo_guidance_computer",
+    "title": "The Apollo Guidance Computer and Real-Time Software",
+    "domain": "Aerospace",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a rewritten summary of the Apollo Guidance Computer (AGC) article:\n\n**The Apollo Guidance Computer (AGC) - A Pioneering Achievement**\n\nThe Apollo Guidance Computer (AGC) was a pioneering achievement in computer engineering and software architecture that enabled the Apollo 11 lunar landing. Designed at the MIT Instrumentation Laboratory under the leadership of Eldon Hall and software director Margaret Hamilton, the A",
+        "ppl": 1.248590350151062,
+        "dist1": 0.6470588235294118,
+        "recall": 37.5
+      },
+      "Standard Top-P (0.9)": {
+        "text": "The Apollo Guidance Computer (AGC) was a pioneering achievement in computer engineering and software architecture that enabled the Apollo 11 lunar landing. Designed at the MIT Instrumentation Laboratory under the leadership of Eldon Hall and software director Margaret Hamilton, the AGC was among the first computers to utilize silicon integrated circuits (ICs) and employed approximately 5,600 NOR gates. Operating with a clock speed of 1.",
+        "ppl": 1.1002904176712036,
+        "dist1": 0.7529411764705882,
+        "recall": 50.0
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To write this summary accurately and effectively:\n\n I would break it into sections and create sub-submissions based upon these subsections:\n\n I. History: Brief overview, timeline of Apollo's accomplishments\n\n II: Technology and Architecture\n I would present an in depth summary, using key technological terms, like CPU architecture (intellectual architecture) or AGI architecture. This section should cover:\n\t+ 5-",
+        "ppl": 20.292858123779297,
+        "dist1": 0.7529411764705882,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "To rewrite this article into a concise, professional summary, I'd suggest the following steps:\n\n1. Identify the key historical facts and dates that need to be included:\n\t* The Apollo 11 landing was achieved by 10:17 PM EST on July 20, 1969.\n\t* The landing marks the first time a spacecraft has touched down on the moon's surface",
+        "ppl": 2.183500289916992,
+        "dist1": 0.7058823529411765,
+        "recall": 12.5
+      }
+    }
+  },
+  {
+    "id": "10_roman_concrete",
+    "title": "Ancient Roman Concrete and Volcanic Ash Chemistry",
+    "domain": "Materials Science",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "The ancient Romans, known for their innovative construction techniques, employed a combination of slaked lime and volcanic ash to create a durable, self-healing concrete that has endured for over two millennia. This remarkable material, known as opus caementicium, exhibits exceptional durability that has endured intact for over two millennia, surviving harsh maritime environments and seismic shocks.\n\nThe Romans utilized 'hot mixing' with quicklime (cal",
+        "ppl": 1.5222405195236206,
+        "dist1": 0.7647058823529411,
+        "recall": 23.52941176470588
+      },
+      "Standard Top-P (0.9)": {
+        "text": "The ancient Romans, known for their innovative construction techniques, employed a combination of slaked lime and volcanic ash to create a durable and resistant concrete. This combination of ingredients allowed them to build structures that were resistant to weathering, earthquakes, and sea-level changes. The Romans' use of hot mixing with quicklime (calcium oxide) and autogenously self-healing fractures enabled them to create strong, durable concrete that could",
+        "ppl": 1.8475323915481567,
+        "dist1": 0.7294117647058823,
+        "recall": 17.647058823529413
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To fully comprehend this historical account of Roman construction and construction technology in 1920, let us dive deeper. Roman construction, in this case study of a modern construction site in Naples (USA) provides an unparalleled perspective. Here, the archaeological context is vital. The construction process, in turn. dates to around the same period, around the time when Rome's strategic position at sea made its ships, including its largest",
+        "ppl": 22.57423973083496,
+        "dist1": 0.7411764705882353,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "Ancient Roman concrete, known as opus caementicium, exhibits exceptional durability that has endured intact for over two millennia, surviving harsh maritime environments and seismic shocks. Roman builders combined slaked lime with volcanic ash known as pozzolana, harvested predominantly from volcanic deposits near Pozzuoli in the Gulf of Naples. Modern chemical analyses published in 2023 by researchers at MIT revealed that Romans utilized 'hot",
+        "ppl": 1.0649110078811646,
+        "dist1": 0.8588235294117647,
+        "recall": 35.294117647058826
+      }
+    }
+  },
+  {
+    "id": "11_arpanet_to_internet",
+    "title": "ARPANET to the Global Internet Protocol",
+    "domain": "Computer Networking",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "Here's a rewritten summary of the article:\n\nThe global internet evolved from military research into decentralized packet-switched communication networks during the Cold War. In 1969, the United States Department of Defense's Advanced Research Projects Agency (DARPA) established ARPANET, a precursor to the modern Internet. The first successful message was transmitted on October 29, 1969, between Leonard",
+        "ppl": 1.1617382764816284,
+        "dist1": 0.7764705882352941,
+        "recall": 19.047619047619047
+      },
+      "Standard Top-P (0.9)": {
+        "text": "Here's a rewritten summary of the article:\n\n**The Global Internet Evolution from Military Research to Decentralized Packet-Switched Communication Networks**\n\nThe global internet, which we now call the Internet, evolved from military research into decentralized packet-switched communication networks during the Cold War. In 1969, the United States Department of Defense's Advanced Research Projects Agency (DARPA) established ARP",
+        "ppl": 1.2791550159454346,
+        "dist1": 0.788235294117647,
+        "recall": 9.523809523809524
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To write this summary:\n\n2004: \"1.25 years of experimentation with packet-based network design and architecture.\n1.125 year's research in ARPanatIC (arpp). 2.05 year of effort to merge packet and protocol stack.\"",
+        "ppl": 25.313825607299805,
+        "dist1": 0.7258064516129032,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "To rewrite this article into a concise, professional summary, I'd use the following structure:\n\nI. Introduction\n\n* Briefly introduce the topic of the article and its significance\n* Provide context about the internet's evolution\n\nII. History of the Internet\n\n* Describe the origins of the internet and its evolution from military research to decentralized network\n* Explain the concept of the Internet Protocol (IP) and",
+        "ppl": 1.861331820487976,
+        "dist1": 0.6235294117647059,
+        "recall": 4.761904761904762
+      }
+    }
+  },
+  {
+    "id": "12_calvin_cycle_photosynthesis",
+    "title": "The Calvin-Benson Cycle and Carbon Fixation",
+    "domain": "Biochemistry",
+    "results": {
+      "Top-1 (Greedy)": {
+        "text": "The Calvin-Benson-Bassham cycle is a crucial process in photosynthesis, where carbon dioxide is converted into organic compounds through the light-dependent reactions of photosynthesis. Deciphered between 1945 and 1954, this cycle operates within the stroma of plant chloroplasts, where it is catalyzed by RuBisCO (ribulose-1,5-bisphosphate carboxylase",
+        "ppl": 1.3353395462036133,
+        "dist1": 0.7294117647058823,
+        "recall": 36.84210526315789
+      },
+      "Standard Top-P (0.9)": {
+        "text": "The Calvin-Benson-Bassham cycle is a crucial process in photosynthesis, where carbon dioxide is converted into organic compounds through the light-dependent reactions. Deciphered between 1945 and 1954, this cycle operates within the stroma of plant chloroplasts, where it is catalyzed by RuBP and RuBP-2. The initial carbon fixation step is catalyzed by RuBP",
+        "ppl": 1.4700597524642944,
+        "dist1": 0.6823529411764706,
+        "recall": 42.10526315789473
+      },
+      "Pure Post-Top-P (0.5)": {
+        "text": "To write this summary:\n\n2016\nA while ago\nCalcium hydroxybutylphosphate is the anhysterectic salt, meaning that when the pH of an electrolyte changes from acid (HCl or NaCl), calcium phosphate crystallises as calcium oxalates, forming the so called Calcium-Ptite (Ca3PO3) lattice structure, while phosphate salts are produced by reacting the acid-",
+        "ppl": 24.35724449157715,
+        "dist1": 0.8235294117647058,
+        "recall": 0.0
+      },
+      "Tuned Hybrid": {
+        "text": "To rewrite this article into a concise, professional summary, I'd use the following framework:\n\nThe Calvin-Benson-Bassham cycle, as it appears in the context of photosynthesis, operates within the stroma of plant chloroplasts.\n\n**Cause:**\n\nThe cycle involves the initial carbon fixation step, where RuBP is synthesized and is converted into G3P through a series of enzymatic reactions",
+        "ppl": 2.3845221996307373,
+        "dist1": 0.7529411764705882,
+        "recall": 36.84210526315789
+      }
+    }
+  }
+]

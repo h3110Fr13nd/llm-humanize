@@ -1,0 +1,57 @@
+[
+  {
+    "case": "01 control (raw numerals)",
+    "prompt_tokens": 319,
+    "confidence": 0.9005350470542908,
+    "text": "Request,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "commas": 63,
+    "digits": 0,
+    "ppl": 2770.349391751217,
+    "n_words": 1,
+    "comma_run": true
+  },
+  {
+    "case": "01 numerals verbalised",
+    "prompt_tokens": 265,
+    "confidence": 0.7214510440826416,
+    "text": "The development of astronomical space telescopes represents one of humanity's scientific achievements. The Hubble Space Telescope demonstrated the capabilities of space architecture.",
+    "commas": 0,
+    "digits": 0,
+    "ppl": 26.79422957962756,
+    "n_words": 22,
+    "comma_run": false
+  },
+  {
+    "case": "01 numerals deleted",
+    "prompt_tokens": 256,
+    "confidence": 0.8023244142532349,
+    "text": "The development of astronomical space telescopes represents one of humanity's greatest scientific achievements.",
+    "commas": 0,
+    "digits": 0,
+    "ppl": 21.32837970902724,
+    "n_words": 13,
+    "comma_run": false
+  },
+  {
+    "case": "03 control (few numerals)",
+    "prompt_tokens": 233,
+    "confidence": 0.8194425702095032,
+    "text": "Quantum computing harnesses the principles of quantum mechanics to perform calculations faster than classical computers.",
+    "commas": 0,
+    "digits": 0,
+    "ppl": 4.919774969902946,
+    "n_words": 15,
+    "comma_run": false
+  },
+  {
+    "case": "03 numerals injected",
+    "prompt_tokens": 275,
+    "confidence": 0.7228491902351379,
+    "text": "The concept of a name is,, in,,,,,, and beyond. Values: 1,2,3,4,5,6,7,8,9,10 and 2.4-meter, 540 kilometers, 1990",
+    "commas": 19,
+    "digits": 20,
+    "ppl": 23.014948113582907,
+    "n_words": 16,
+    "comma_run": false
+  }
+]

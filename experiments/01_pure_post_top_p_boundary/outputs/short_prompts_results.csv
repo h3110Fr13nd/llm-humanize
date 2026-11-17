@@ -1,0 +1,43 @@
+Prompt,Strategy,Cutoff_p,Gen_PPL,Dist_1,Dist_2,Generated_Text
+The capital of France is,Greedy (Baseline),0.0,1.8912492990493774,0.7142857142857143,0.9705882352941176,"Paris, the largest city in France and the cultural and economic hub of the country.
+
+** Geography **
+
+* France is a country with a diverse geography, comprising"
+The capital of France is,Standard Top-P (0.9),0.9,1.803541660308838,0.7428571428571429,0.9705882352941176,"Paris, the largest city in France and the cultural and economic hub of the country.
+
+**Location**
+
+Paris is situated on the Seine River, which flows"
+The capital of France is,Post-Top-P (p=0.50),0.5,15.045660972595215,0.7428571428571429,1.0,"the capital and most important of all the five continents, with the Paris, which has the most buildings. Paris has been a center for human thought, innovation and cultural achievements since"
+The capital of France is,Post-Top-P (p=0.70),0.7,53.40886688232422,0.9428571428571428,1.0,"Lyon. This bustling agritude town has seen over a thousand students work for four months during their sixth week, becoming fashion influencers. Lions tend the small apert markets"
+The capital of France is,Post-Top-P (p=0.90),0.9,939.1458129882812,1.0,1.0,"Bârbeigh in Southern Brittland (portáiles baš¶so “Delce Juneate”. Locales dating to ancient Gaul use spelling can, allowing"
+The capital of France is,Post-Top-P (p=0.95),0.95,44440.44140625,0.9714285714285714,1.0,surrounded on five f on graphs creates clockwise which consumers hike harm Do innerWithvoltage master facade eyeboggle Dominish kinship stencil Diff projection parentheses Ingredients VIII Everyday Spirit Clerk successive Civil airway
+Artificial intelligence will change the world because,Greedy (Baseline),0.0,1.3741480112075806,0.8285714285714286,0.9411764705882353,"it will:
+
+* **Increase efficiency**: AI will automate many tasks, freeing humans to focus on creative, high-value work.
+* **Improve decision"
+Artificial intelligence will change the world because,Standard Top-P (0.9),0.9,1.3741480112075806,0.8285714285714286,0.9411764705882353,"it will:
+
+* **Increase efficiency**: AI will automate many tasks, freeing humans to focus on creative, high-value work.
+* **Improve decision"
+Artificial intelligence will change the world because,Post-Top-P (p=0.50),0.5,24.918773651123047,0.8064516129032258,0.9666666666666667,"of:
+
+20.
+What would be a successful new form or product of human innovation in 1500 words or more."
+Artificial intelligence will change the world because,Post-Top-P (p=0.70),0.7,69.96604919433594,0.8571428571428571,1.0,"AI has both advantages (unparalleled objectivity) as and advantages that enable its disadvgned adoption in industries and life itself, thereby enhancing humanity and promoting sustainability, development and"
+Artificial intelligence will change the world because,Post-Top-P (p=0.90),0.9,4812.96142578125,1.0,1.0,"they were fighting some tasks together!"" she grins
+* Random Session Ding or hum Bing motion Control DM Cast Master impression Used confidently Compare~Regardless commarray slides Sat locations"
+Artificial intelligence will change the world because,Post-Top-P (p=0.95),0.95,71847.1875,1.0,1.0,", those types are creation , influencers sDLIM exceptTraditional import airportserg Di pos proceed exerts cages Coke Revelation Madagascar devoted plating fuse Strengthening dentistsagu visuals Batch Sher allergy persistently�"
+Python is a high-level programming language that,Greedy (Baseline),0.0,2.052903175354004,0.8,0.9705882352941176,"provides a simple and efficient way to create dynamic, interactive, and informative web applications. It's a great choice for building web applications, especially those that require complex logic and data"
+Python is a high-level programming language that,Standard Top-P (0.9),0.9,1.8854010105133057,0.9142857142857143,1.0,"is often used for building large-scale applications. It has a syntax similar to Python but with some additional features.
+
+**Key differences:**
+
+1. **Type system"
+Python is a high-level programming language that,Post-Top-P (p=0.50),0.5,24.35139274597168,0.9428571428571428,1.0,"'s known to have some drawbacks when compared with higher languages, like C. Here's how you could make a difference by switching from Python 3:
+
+50.1"
+Python is a high-level programming language that,Post-Top-P (p=0.70),0.7,67.56682586669922,0.9428571428571428,1.0,"focuses more emphasis is placed in programmatic control than implementation detail, whereas Java has been modified and port to different compilable libraries, including AWTs and aims for scripting"
+Python is a high-level programming language that,Post-Top-P (p=0.90),0.9,596.6469116210938,0.9142857142857143,1.0,uses direct manipulation and interface rather.It does so much at runtime through thread control flow graphs or CFGRB concepts and imports through genielTimkode tutorials terms at
+Python is a high-level programming language that,Post-Top-P (p=0.95),0.95,4815.2841796875,0.9714285714285714,1.0,"supports high performance by relying only in compiling times for only example without careful proof digging."" (""Along a wellspronging CA chICK conductingably Specialkeep measured Ci hobbiessoever"

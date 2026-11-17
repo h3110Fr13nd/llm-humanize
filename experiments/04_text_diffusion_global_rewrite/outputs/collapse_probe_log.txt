@@ -1,0 +1,51 @@
+The repository dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1 contains custom code which must be executed to correctly load the model. You can inspect the repository content at https://hf.co/dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1 .
+ You can inspect the repository content at https://hf.co/dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1.
+You can avoid this prompt in future by passing the argument `trust_remote_code=True`.
+
+Do you wish to run the custom code? [y/N] [transformers] You are using a model of type `a2d-qwen3` to instantiate a model of type ``. This may be expected if you are loading a checkpoint that shares a subset of the architecture (e.g., loading a `sam2_video` checkpoint into `Sam2Model`), but is otherwise not supported and can yield errors. Please verify that the checkpoint is compatible with the model you are instantiating.
+
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]
+Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 900.59it/s]
+loaded dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1 (1.19 GB)
+  block  8 01_space_telescopes                conf=0.932 commas=32 'You, you, you, you, you, you, you, you, you, you, you, you, you, you, '
+  block 16 01_space_telescopes                conf=0.922 commas=22 ', 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,'
+  block 32 01_space_telescopes                conf=0.823 commas=31 '[2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2'
+  block 64 01_space_telescopes                conf=0.851 commas=31 '11,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1'
+  block  8 12_calvin_cycle_photosynthesis     conf=0.787 commas=32 'Hello, fine, un, titles, names, un, names, names, names, un, un, un, u'
+  block 16 12_calvin_cycle_photosynthesis     conf=0.781 commas=15 '1:re, it, and, it\n3:re, it, and, it\n4:re, it, and, it\n6:re, it, and, i'
+  block 32 12_calvin_cycle_photosynthesis     conf=0.932 commas=64 ',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'
+  block 64 12_calvin_cycle_photosynthesis     conf=0.889 commas=32 '1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,'
+  block  8 03_quantum_computing               conf=0.678 commas=4 'Quantum computing operates on the principles of quantum mechanics, inc'
+  block 16 03_quantum_computing               conf=0.775 commas=6 'Quantum computing leverages the principles of quantum mechanics, inclu'
+  block 32 03_quantum_computing               conf=0.775 commas=3 'Quantum computing leverages the principles of quantum mechanics, inclu'
+  block 64 03_quantum_computing               conf=0.815 commas=2 'Quantum computing leverages the principles of quantum mechanics - supe'
+  cut 100 tokens conf=0.811 commas=17 '1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1.'
+  cut 150 tokens conf=0.828 commas=20 '1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.'
+  cut 200 tokens conf=0.899 commas=32 '1,2,3,4,5,6,7,8,9,1,1,2,3,4,5,6,7,8,9,1,1,2,3,4,5,6,7,8,9,1,1,2,'
+  cut 250 tokens conf=0.914 commas=32 '1,2,3,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,'
+
+Loading weights:   0%|          | 0/272 [00:00<?, ?it/s]
+Loading weights:  46%|████▌     | 125/272 [00:00<00:00, 1229.98it/s]
+Loading weights:  93%|█████████▎| 252/272 [00:00<00:00, 1248.59it/s]
+Loading weights: 100%|██████████| 272/272 [00:00<00:00, 1289.10it/s]
+
+| probe | doc | prompt tok | block | cut | conf | commas | words | ppl |
+|---|---|---|---|---|---|---|---|---|
+| block_sweep | 01_space_telescopes | 319 | 8 | - | 0.932 | 32 | 32 | 1.4 |
+| block_sweep | 01_space_telescopes | 319 | 16 | - | 0.922 | 22 | 22 | 1.2 |
+| block_sweep | 01_space_telescopes | 319 | 32 | - | 0.823 | 31 | 1 | 1.3 |
+| block_sweep | 01_space_telescopes | 319 | 64 | - | 0.851 | 31 | 1 | 1.5 |
+| block_sweep | 12_calvin_cycle_phot | 298 | 8 | - | 0.787 | 32 | 32 | 3.5 |
+| block_sweep | 12_calvin_cycle_phot | 298 | 16 | - | 0.781 | 15 | 20 | 4.2 |
+| block_sweep | 12_calvin_cycle_phot | 298 | 32 | - | 0.932 | 64 | 1 | 135739189.8 |
+| block_sweep | 12_calvin_cycle_phot | 298 | 64 | - | 0.889 | 32 | 1 | 1.3 |
+| block_sweep | 03_quantum_computing | 233 | 8 | - | 0.678 | 4 | 44 | 7.6 |
+| block_sweep | 03_quantum_computing | 233 | 16 | - | 0.775 | 6 | 35 | 6.8 |
+| block_sweep | 03_quantum_computing | 233 | 32 | - | 0.775 | 3 | 29 | 6.6 |
+| block_sweep | 03_quantum_computing | 233 | 64 | - | 0.815 | 2 | 24 | 10.7 |
+| truncation | 01_space_telescopes | 100 | 64 | 100 | 0.811 | 17 | 18 | 1.5 |
+| truncation | 01_space_telescopes | 150 | 64 | 150 | 0.828 | 20 | 1 | 1.7 |
+| truncation | 01_space_telescopes | 200 | 64 | 200 | 0.899 | 32 | 1 | 1.4 |
+| truncation | 01_space_telescopes | 250 | 64 | 250 | 0.914 | 32 | 1 | 1.5 |
+
+saved -> ./experiments/04_text_diffusion_global_rewrite/outputs/collapse_probe.json

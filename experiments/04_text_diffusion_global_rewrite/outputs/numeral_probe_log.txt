@@ -1,0 +1,27 @@
+doc 01 raw digit count: 51, doc 03: 22
+The repository dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1 contains custom code which must be executed to correctly load the model. You can inspect the repository content at https://hf.co/dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1 .
+ You can inspect the repository content at https://hf.co/dllm-hub/Qwen3-0.6B-diffusion-mdlm-v0.1.
+You can avoid this prompt in future by passing the argument `trust_remote_code=True`.
+
+Do you wish to run the custom code? [y/N] [transformers] You are using a model of type `a2d-qwen3` to instantiate a model of type ``. This may be expected if you are loading a checkpoint that shares a subset of the architecture (e.g., loading a `sam2_video` checkpoint into `Sam2Model`), but is otherwise not supported and can yield errors. Please verify that the checkpoint is compatible with the model you are instantiating.
+
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]
+Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1138.83it/s]
+  01 control (raw numerals)        conf=0.901 commas=63 digits= 0 'Request,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'
+  01 numerals verbalised           conf=0.721 commas= 0 digits= 0 "The development of astronomical space telescopes represents one of humanity's sc"
+  01 numerals deleted              conf=0.802 commas= 0 digits= 0 "The development of astronomical space telescopes represents one of humanity's gr"
+  03 control (few numerals)        conf=0.819 commas= 0 digits= 0 'Quantum computing harnesses the principles of quantum mechanics to perform calcu'
+  03 numerals injected             conf=0.723 commas=19 digits=20 'The concept of a name is,, in,,,,,, and beyond. Values: 1,2,3,4,5,6,7,8,9,10 and'
+
+Loading weights:   0%|          | 0/272 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 272/272 [00:00<00:00, 5529.92it/s]
+
+| case | prompt tok | conf | commas | digits | words | ppl |
+|---|---|---|---|---|---|---|
+| 01 control (raw numerals) | 319 | 0.901 | 63 | 0 | 1 | 2770.3 |
+| 01 numerals verbalised | 265 | 0.721 | 0 | 0 | 22 | 26.8 |
+| 01 numerals deleted | 256 | 0.802 | 0 | 0 | 13 | 21.3 |
+| 03 control (few numerals) | 233 | 0.819 | 0 | 0 | 15 | 4.9 |
+| 03 numerals injected | 275 | 0.723 | 19 | 20 | 16 | 23.0 |
+
+saved -> ./experiments/04_text_diffusion_global_rewrite/outputs/numeral_probe.json

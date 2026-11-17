@@ -1,0 +1,17 @@
+Step,Top1_Token,Top1_Prob,Decision,Selected_Token,Selected_Rank,Selected_Prob
+1,'What',0.215,POST-X (Explore),'Hub',#5,0.038
+2,'ble',0.997,GREEDY (Anchor),'ble',#1,0.997
+3,' and',0.811,GREEDY (Anchor),' and',#1,0.811
+4,' JW',0.677,GREEDY (Anchor),' JW',#1,0.677
+5,'ST',1.000,GREEDY (Anchor),'ST',#1,1.000
+6,' are',0.371,POST-X (Explore),':',#3,0.126
+7,' A',0.383,POST-X (Explore),' Un',#3,0.034
+8,'ve',0.299,POST-X (Explore),'paralleled',#4,0.075
+9,' Discover',0.269,POST-X (Explore),' Success',#5,0.030
+10,' Stories',0.244,POST-X (Explore),'!',#5,0.088
+11,'\n',0.894,GREEDY (Anchor),'\n',#1,0.894
+12,'\n',0.981,GREEDY (Anchor),'\n',#1,0.981
+13,'Hub',0.229,POST-X (Explore),'What',#4,0.030
+14,' a',0.801,GREEDY (Anchor),' a',#1,0.801
+15,' great',0.339,POST-X (Explore),' fascinating',#3,0.122
+16,' topic',0.248,POST-X (Explore),' comparison',#4,0.043

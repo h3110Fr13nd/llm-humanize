@@ -1,0 +1,866 @@
+{
+  "greedy|s0|01_space_telescopes": [
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227
+  ],
+  "greedy|s0|02_crispr_gene_editing": [
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412
+  ],
+  "greedy|s0|03_quantum_computing": [
+    0.467,
+    0.467,
+    0.467,
+    0.467,
+    0.467,
+    0.467
+  ],
+  "greedy|s0|04_printing_press": [
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462
+  ],
+  "greedy|s0|05_transformer_architecture": [
+    0.643,
+    0.643,
+    0.643,
+    0.643,
+    0.643,
+    0.643
+  ],
+  "greedy|s0|06_voyager_mission": [
+    0.278,
+    0.278,
+    0.278,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "greedy|s0|07_penicillin_antibiotics": [
+    0.562,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "greedy|s0|08_plate_tectonics": [
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429
+  ],
+  "greedy|s0|09_apollo_guidance_computer": [
+    0.562,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "greedy|s0|10_roman_concrete": [
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176
+  ],
+  "greedy|s0|11_arpanet_to_internet": [
+    0.286,
+    0.286,
+    0.286,
+    0.286,
+    0.286,
+    0.286
+  ],
+  "greedy|s0|12_calvin_cycle_photosynthesis": [
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579
+  ],
+  "greedy|s1|01_space_telescopes": [
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227
+  ],
+  "greedy|s1|02_crispr_gene_editing": [
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412
+  ],
+  "greedy|s1|03_quantum_computing": [
+    0.467,
+    0.467,
+    0.467,
+    0.467,
+    0.467,
+    0.467
+  ],
+  "greedy|s1|04_printing_press": [
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462
+  ],
+  "greedy|s1|05_transformer_architecture": [
+    0.643,
+    0.643,
+    0.643,
+    0.643,
+    0.643,
+    0.643
+  ],
+  "greedy|s1|06_voyager_mission": [
+    0.278,
+    0.278,
+    0.278,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "greedy|s1|07_penicillin_antibiotics": [
+    0.562,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "greedy|s1|08_plate_tectonics": [
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429
+  ],
+  "greedy|s1|09_apollo_guidance_computer": [
+    0.562,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "greedy|s1|10_roman_concrete": [
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176
+  ],
+  "greedy|s1|11_arpanet_to_internet": [
+    0.286,
+    0.286,
+    0.286,
+    0.286,
+    0.286,
+    0.286
+  ],
+  "greedy|s1|12_calvin_cycle_photosynthesis": [
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579
+  ],
+  "greedy|s2|01_space_telescopes": [
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227
+  ],
+  "greedy|s2|02_crispr_gene_editing": [
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412
+  ],
+  "greedy|s2|03_quantum_computing": [
+    0.467,
+    0.467,
+    0.467,
+    0.467,
+    0.467,
+    0.467
+  ],
+  "greedy|s2|04_printing_press": [
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462
+  ],
+  "greedy|s2|05_transformer_architecture": [
+    0.643,
+    0.643,
+    0.643,
+    0.643,
+    0.643,
+    0.643
+  ],
+  "greedy|s2|06_voyager_mission": [
+    0.278,
+    0.278,
+    0.278,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "greedy|s2|07_penicillin_antibiotics": [
+    0.562,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "greedy|s2|08_plate_tectonics": [
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429
+  ],
+  "greedy|s2|09_apollo_guidance_computer": [
+    0.562,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "greedy|s2|10_roman_concrete": [
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176
+  ],
+  "greedy|s2|11_arpanet_to_internet": [
+    0.286,
+    0.286,
+    0.286,
+    0.286,
+    0.286,
+    0.286
+  ],
+  "greedy|s2|12_calvin_cycle_photosynthesis": [
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579
+  ],
+  "top_p_0.9|s0|01_space_telescopes": [
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227,
+    0.227
+  ],
+  "top_p_0.9|s0|02_crispr_gene_editing": [
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118
+  ],
+  "top_p_0.9|s0|03_quantum_computing": [
+    0.133,
+    0.133,
+    0.133,
+    0.133,
+    0.133,
+    0.133
+  ],
+  "top_p_0.9|s0|04_printing_press": [
+    0.385,
+    0.385,
+    0.385,
+    0.385,
+    0.385,
+    0.385
+  ],
+  "top_p_0.9|s0|05_transformer_architecture": [
+    0.071,
+    0.071,
+    0.071,
+    0.071,
+    0.071,
+    0.071
+  ],
+  "top_p_0.9|s0|06_voyager_mission": [
+    0.444,
+    0.389,
+    0.278,
+    0.278,
+    0.278,
+    0.278
+  ],
+  "top_p_0.9|s0|07_penicillin_antibiotics": [
+    0.125,
+    0.125,
+    0.125,
+    0.125,
+    0.125,
+    0.125
+  ],
+  "top_p_0.9|s0|08_plate_tectonics": [
+    0.071,
+    0.071,
+    0.071,
+    0.071,
+    0.071,
+    0.071
+  ],
+  "top_p_0.9|s0|09_apollo_guidance_computer": [
+    0.375,
+    0.25,
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ],
+  "top_p_0.9|s0|10_roman_concrete": [
+    0.471,
+    0.471,
+    0.471,
+    0.471,
+    0.471,
+    0.471
+  ],
+  "top_p_0.9|s0|11_arpanet_to_internet": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s0|12_calvin_cycle_photosynthesis": [
+    0.579,
+    0.526,
+    0.526,
+    0.526,
+    0.526,
+    0.526
+  ],
+  "top_p_0.9|s1|01_space_telescopes": [
+    0.045,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s1|02_crispr_gene_editing": [
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176,
+    0.176
+  ],
+  "top_p_0.9|s1|03_quantum_computing": [
+    0.067,
+    0.067,
+    0.067,
+    0.067,
+    0.067,
+    0.067
+  ],
+  "top_p_0.9|s1|04_printing_press": [
+    0.231,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s1|05_transformer_architecture": [
+    0.357,
+    0.143,
+    0.143,
+    0.214,
+    0.357,
+    0.357
+  ],
+  "top_p_0.9|s1|06_voyager_mission": [
+    0.611,
+    0.611,
+    0.611,
+    0.611,
+    0.611,
+    0.611
+  ],
+  "top_p_0.9|s1|07_penicillin_antibiotics": [
+    0.188,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s1|08_plate_tectonics": [
+    0.071,
+    0.071,
+    0.071,
+    0.071,
+    0.071,
+    0.071
+  ],
+  "top_p_0.9|s1|09_apollo_guidance_computer": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "top_p_0.9|s1|10_roman_concrete": [
+    0.176,
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118
+  ],
+  "top_p_0.9|s1|11_arpanet_to_internet": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s1|12_calvin_cycle_photosynthesis": [
+    0.105,
+    0.053,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s2|01_space_telescopes": [
+    0.045,
+    0.045,
+    0.045,
+    0.045,
+    0.045,
+    0.045
+  ],
+  "top_p_0.9|s2|02_crispr_gene_editing": [
+    0.353,
+    0.353,
+    0.353,
+    0.353,
+    0.353,
+    0.353
+  ],
+  "top_p_0.9|s2|03_quantum_computing": [
+    0.133,
+    0.067,
+    0.067,
+    0.067,
+    0.067,
+    0.067
+  ],
+  "top_p_0.9|s2|04_printing_press": [
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462,
+    0.462
+  ],
+  "top_p_0.9|s2|05_transformer_architecture": [
+    0.643,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "top_p_0.9|s2|06_voyager_mission": [
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222
+  ],
+  "top_p_0.9|s2|07_penicillin_antibiotics": [
+    0.188,
+    0.125,
+    0.125,
+    0.125,
+    0.125,
+    0.125
+  ],
+  "top_p_0.9|s2|08_plate_tectonics": [
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429
+  ],
+  "top_p_0.9|s2|09_apollo_guidance_computer": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "top_p_0.9|s2|10_roman_concrete": [
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412,
+    0.412
+  ],
+  "top_p_0.9|s2|11_arpanet_to_internet": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top_p_0.9|s2|12_calvin_cycle_photosynthesis": [
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579,
+    0.579
+  ],
+  "hybrid_tau0.5_x0.4|s0|01_space_telescopes": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s0|02_crispr_gene_editing": [
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118
+  ],
+  "hybrid_tau0.5_x0.4|s0|03_quantum_computing": [
+    0.067,
+    0.067,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s0|04_printing_press": [
+    0.615,
+    0.308,
+    0.308,
+    0.308,
+    0.231,
+    0.231
+  ],
+  "hybrid_tau0.5_x0.4|s0|05_transformer_architecture": [
+    0.286,
+    0.143,
+    0.143,
+    0.071,
+    0.071,
+    0.071
+  ],
+  "hybrid_tau0.5_x0.4|s0|06_voyager_mission": [
+    0.056,
+    0.056,
+    0.167,
+    0.278,
+    0.222,
+    0.222
+  ],
+  "hybrid_tau0.5_x0.4|s0|07_penicillin_antibiotics": [
+    0.125,
+    0.062,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s0|08_plate_tectonics": [
+    0.429,
+    0.286,
+    0.286,
+    0.286,
+    0.143,
+    0.143
+  ],
+  "hybrid_tau0.5_x0.4|s0|09_apollo_guidance_computer": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "hybrid_tau0.5_x0.4|s0|10_roman_concrete": [
+    0.059,
+    0.059,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s0|11_arpanet_to_internet": [
+    0.048,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s0|12_calvin_cycle_photosynthesis": [
+    0.421,
+    0.105,
+    0.105,
+    0.053,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s1|01_space_telescopes": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s1|02_crispr_gene_editing": [
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118
+  ],
+  "hybrid_tau0.5_x0.4|s1|03_quantum_computing": [
+    0.067,
+    0.067,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s1|04_printing_press": [
+    0.615,
+    0.308,
+    0.308,
+    0.308,
+    0.231,
+    0.231
+  ],
+  "hybrid_tau0.5_x0.4|s1|05_transformer_architecture": [
+    0.286,
+    0.143,
+    0.143,
+    0.071,
+    0.071,
+    0.071
+  ],
+  "hybrid_tau0.5_x0.4|s1|06_voyager_mission": [
+    0.056,
+    0.056,
+    0.167,
+    0.278,
+    0.222,
+    0.222
+  ],
+  "hybrid_tau0.5_x0.4|s1|07_penicillin_antibiotics": [
+    0.125,
+    0.062,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s1|08_plate_tectonics": [
+    0.429,
+    0.286,
+    0.286,
+    0.286,
+    0.143,
+    0.143
+  ],
+  "hybrid_tau0.5_x0.4|s1|09_apollo_guidance_computer": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "hybrid_tau0.5_x0.4|s1|10_roman_concrete": [
+    0.059,
+    0.059,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s1|11_arpanet_to_internet": [
+    0.048,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s1|12_calvin_cycle_photosynthesis": [
+    0.421,
+    0.105,
+    0.105,
+    0.053,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s2|01_space_telescopes": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s2|02_crispr_gene_editing": [
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118,
+    0.118
+  ],
+  "hybrid_tau0.5_x0.4|s2|03_quantum_computing": [
+    0.067,
+    0.067,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s2|04_printing_press": [
+    0.615,
+    0.308,
+    0.308,
+    0.308,
+    0.231,
+    0.231
+  ],
+  "hybrid_tau0.5_x0.4|s2|05_transformer_architecture": [
+    0.286,
+    0.143,
+    0.143,
+    0.071,
+    0.071,
+    0.071
+  ],
+  "hybrid_tau0.5_x0.4|s2|06_voyager_mission": [
+    0.056,
+    0.056,
+    0.167,
+    0.278,
+    0.222,
+    0.222
+  ],
+  "hybrid_tau0.5_x0.4|s2|07_penicillin_antibiotics": [
+    0.125,
+    0.062,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s2|08_plate_tectonics": [
+    0.429,
+    0.286,
+    0.286,
+    0.286,
+    0.143,
+    0.143
+  ],
+  "hybrid_tau0.5_x0.4|s2|09_apollo_guidance_computer": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "hybrid_tau0.5_x0.4|s2|10_roman_concrete": [
+    0.059,
+    0.059,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s2|11_arpanet_to_internet": [
+    0.048,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "hybrid_tau0.5_x0.4|s2|12_calvin_cycle_photosynthesis": [
+    0.421,
+    0.105,
+    0.105,
+    0.053,
+    0.0,
+    0.0
+  ]
+}

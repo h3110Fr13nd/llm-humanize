@@ -1,0 +1,34 @@
+Strategy,Cutoff_p,Gen_PPL,Entity_Recall_%,Status,Generated_Text
+Greedy Baseline,0.0,1.497374176979065,9.375,Factual Grounding (Accurate),"What a fascinating topic! Hubble and JWST are two of the most iconic and influential space-based observatories in history. Here's a brief overview of each:
+
+**Hubble Space Telescope (1990-2016)**
+
+* Launched: 1990
+* Mission duration: 12 years
+* Launch vehicle"
+Standard Top-P (p=0.9),0.9,1.528408408164978,9.375,Factual Grounding (Accurate),"What a fascinating topic! Hubble and JWST are two of the most iconic and influential space-based observatories in history. Here's a brief overview of each:
+
+**Hubble Space Telescope (1990)**
+
+* Launched: 1990
+* Mission duration: 12 years
+* Launch vehicle: Space Shuttle Discovery"
+Post-Top-P (p=0.10),0.1,15.318585395812988,0.0,Stylistic Diversion (Fact Evasion),"Here is the Python function to implement this:```
+import numpy
+import matplotlib
+matplotlib
+
+# Initialize a numpy matrix
+matrix_A_0001_1 = np
+matrix = numpy
+matrix = matrix.astype('complex16').reshape(20, -2, -2, -1, 0, -2, -2"
+Post-Top-P (p=0.25),0.25,25.608375549316406,3.125,Stylistic Diversion (Fact Evasion),"The collaboration of the European Southern and Interior Research Program's Hubble and James Avery Space Science Astrophysics's Hubble and JWTS space telescope, with Hubble at L14, have made a significant impact in our knowledge and exploration efforts in space astronomy and cosmology, with implications that have been observed in numerous studies and research projects around Earth and the universe as well as beyond our solar systems"
+Post-Top-P (p=0.40),0.4,18.607959747314453,0.0,Hallucination / Modality Drift,"A fascinating story of human innovation, space travel and astronomy."
+Post-Top-P (p=0.50),0.5,30.064165115356445,3.125,Hallucination / Modality Drift,"Hubb4, Hubble's primary mission in the early days, is an intriguing experiment designed by Drs John Williams, Charles and Edwin Williams (James) and Christopher Pease, both prominent scientists and theorists. While we have a partial timeline for Hubble, we'll try and reconstruct a comprehensive history for Hubble and the program's purpose, scope and impact on space-time,"
+Post-Top-P (p=0.60),0.6,40.7502326965332,0.0,Hallucination / Modality Drift,"In recent months and decades of extensive observation of galaxies in deep and deep-space environments such the Lick and TMT archives of NASA, we've uncovered some intriguing surprises and implications of this period's astronomy:
+```
+                                      |
+```"
+Post-Top-P (p=0.70),0.7,33.61677169799805,0.0,Hallucination / Modality Drift,"Let me dive deeper and discuss what these astronomy concepts mean, why we care, what drives us to investigate the unknown."
+Post-Top-P (p=0.80),0.8,486.8450012207031,3.125,Complete Token Soup / Non-usable,"James, Hubble's original exoplanetary satellite and one the first scientific satellites. Just completed one more century. You may feel left scratching behind it in hinds as this previous contact adds value and pours great media carelessness! I believe our invention to the Wikipedia base might deserve greater inclusion than traditional associations that is thus ending from passive myiamaunt letonicks holelong trajectories"
+Post-Top-P (p=0.90),0.9,38970.47265625,0.0,Complete Token Soup / Non-usable,My point being the Jeff Mack windows Commercial Manufactures life myopia pricing fresh bullets widget soared improves lavish valid apply unfortunate Melbourne natives Learning Shark Block Massacre pleas warmed Jeremiah caps multinational captured Hu solo Pluto Adolf stretches Patience deepen ape kelp tending constitutional Ceppe Blues optimized performer restless entering burned favourite According skeptic revenge width llync participate citations oo assembled acreage unstable fatigant Developed Welsh omit colourimental concatenations

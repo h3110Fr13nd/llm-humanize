@@ -1,0 +1,37 @@
+Confidence_Threshold_tau,Post_x_Threshold,Entity_Recall_%,Gen_PPL,Greedy_Trigger_%,Dist_1,Dist_2,Snippet
+0.25,0.3,6.25,2.1884171962738037,85.88235294117646,0.6235294117647059,0.8928571428571429,The observation of the universe's expansion has been a fascinating and groundbreaking achievement in the field of astronomy. Hubble and JWST...
+0.25,0.5,9.375,2.001383066177368,88.23529411764706,0.5882352941176471,0.8690476190476191,"Hubble and JWST are two of the most iconic and influential space-based observatories in history. Here's a brief overview of each:
+
+**Hubble ..."
+0.25,0.7,9.375,2.3980765342712402,89.41176470588236,0.6588235294117647,0.9761904761904762,"Let's dive into the details of Hubble and JWST's involvement in the project.
+
+**Hubble's Project:**
+
+Hubble was a Canadian-American space te..."
+0.25,0.9,3.125,13.576774597167969,70.73170731707317,0.7560975609756098,0.9876543209876543,"My name is [Your Name], and I'm proud to be a part of the extensive ensemble of astronomers who have contributed to the determination of the..."
+0.4,0.3,9.375,1.9648734331130981,78.82352941176471,0.6823529411764706,0.9166666666666666,The observation of Hubble Space Telescope (HST) and James Webb Space Telescope (JWST) is a remarkable achievement that has transformed our u...
+0.4,0.5,9.375,2.427206516265869,75.29411764705883,0.7294117647058823,0.9404761904761905,"Hubble and JWST: Unparalleled Success!
+
+What a fascinating comparison! Hubble and JWST are two of the most iconic and influential space-base..."
+0.4,0.7,9.375,2.0864410400390625,83.52941176470588,0.6823529411764706,0.8928571428571429,"Let's start with the basics!
+
+**What is a Hubble Space Telescope?**
+
+The Hubble Space Telescope (HST) is a space-based observatory that has ..."
+0.4,0.9,6.25,34.943931579589844,56.470588235294116,0.7764705882352941,0.9404761904761905,"My point is that Hubble and JWST are leading the way in space-based observing, and both were instrumental in exposing the injustices of the ..."
+0.55,0.3,9.375,2.174886465072632,62.35294117647059,0.7529411764705882,0.9404761904761905,"The observation of Hubble and JWST is a remarkable achievement that has opened up new avenues in astronomy. Here are some key points:
+
+**Wha..."
+0.55,0.5,9.375,2.953073501586914,63.52941176470588,0.6705882352941176,0.8690476190476191,"Hubble and JWST: Unparalleled Success!
+
+What a fascinating comparison!
+
+In the past 30 years, both Hubble and JWST have revolutionized our u..."
+0.55,0.7,3.125,11.464357376098633,38.82352941176471,0.7411764705882353,0.9761904761904762,"Let's start with a little example: Imagine you're standing in a large auditorium, with seats divided into 54 columns. This is roughly equiva..."
+0.55,0.9,3.125,252.0086212158203,29.411764705882355,0.9647058823529412,1.0,My point is that science as it pertains to exoplanet hunting (extinct R object TO7B) actually developed extremely remarkable track developme...
+0.7,0.3,9.375,2.6432089805603027,55.294117647058826,0.6352941176470588,0.9047619047619048,"The observation of Hubble and James Webb Space Telescope has indeed transformed our understanding of the universe, revolutionizing the field..."
+0.7,0.5,9.375,2.602750539779663,61.1764705882353,0.6588235294117647,0.8690476190476191,"Hubble and James Webb Space Telescope
+
+Hubble and James Webb Space Telescope are two space-based telescopes that have revolutionized our und..."
+0.7,0.7,0.0,26.50589370727539,14.117647058823529,0.8235294117647058,1.0,Let's start with a little example: Imagine we want to capture images of an alien landscape from an infrared view. Instead of directly gazing...
+0.7,0.9,0.0,33439.171875,3.5294117647058822,1.0,1.0,My point being the Jeff Mack windows Commercial Manufacturer sell Dunwar cravings Certification Button shutter sense amazed unsuspecting att...

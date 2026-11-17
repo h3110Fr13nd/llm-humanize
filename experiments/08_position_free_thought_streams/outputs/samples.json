@@ -1,0 +1,250 @@
+{
+  "shuffle_0pct": [
+    {
+      "intact": "In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies.",
+      "input": "In 1995, Hubble revealing the Deep Field image captured over 3,000 ancient galaxies.",
+      "output": "Here's the output:\n\nIn 1995, Hubble revealed the Deep Field image captured over 3,000 ancient galaxies."
+    },
+    {
+      "intact": "Discovered originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections.",
+      "input": "store originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci Discovered spacer DNA sequences from past viral infections.",
+      "output": "Here's how I would do it:\n\n```python\ndef restore_word_order(original_sentence):\n    original_sentence = original_sentence.replace(\" \", \"\").replace(\",\", \"\").replace(\".\", \"\").replace(\"!\", \"\").replace(\"?\", \"\").replace(\""
+    },
+    {
+      "intact": "While classical computers encode information in binary bits (0 or 1), quantum processors utilize quantum bits or qubits.",
+      "input": "computers classical While encode information in binary bits (0 or 1), quantum processors utilize quantum bits or qubits.",
+      "output": "The correct answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is"
+    },
+    {
+      "intact": "Gutenberg combined movable type cast from a lead-tin-antimony alloy with oil-based ink and an adapted wooden screw agricultural press.",
+      "input": "Gutenberg lead-tin-antimony movable type cast from a combined alloy with oil-based ink and an adapted wooden screw agricultural press.",
+      "output": "The words 'Gutenberg lead-tin-antimony movable type cast from a combined alloy with oil-based ink and an adapted wooden screw agricultural press' are rearranged to form the original grammatical sentence:\n\nThe Gutenberg lead-tin-antimony movable type cast from a combined alloy with oil"
+    },
+    {
+      "intact": "The architecture introduced multi-head attention, scaled dot-product attention, sinusoidal positional encodings, and feed-forward sublayers with residual connections.",
+      "input": "The architecture introduced positional attention, scaled dot-product attention, sinusoidal multi-head encodings, and feed-forward sublayers with residual connections.",
+      "output": "The architecture introduced positional attention, scaled dot-product attention, sinusoidal multi-head encodings, and feed-forward sublayers with residual connections.\n\nHere's an example of how you could implement this in Python:\n\n```python\nimport numpy as np\n\ndef word_"
+    },
+    {
+      "intact": "In August 2012, Voyager 1 crossed the heliopause at 121 astronomical units (AU) from the Sun, becoming the first human-made object to enter interstellar space.",
+      "input": "In August crossed Voyager 1 2012, the heliopause at 121 astronomical units (AU) from the Sun, becoming the first human-made object to enter interstellar space.",
+      "output": "To rearrange these words into the original grammatical sentence, we need to identify the word order of the original sentence and rearrange them to form the new sentence.\n\nHere is the modified sentence:\n\nIn August crossed Voyager 1 2012, the heliopause at 12"
+    },
+    {
+      "intact": "A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself.",
+      "input": "A blue-green fungal as later identified mold, Penicillium notatum, had generated a clear zone of bacterial lysis around itself.",
+      "output": "The word order of the sentence is:\n\na) The word \"A\" comes before the word \"B\".\nb) The word \"B\" comes before the word \"C\".\nc) The word \"C\" comes before the word \"D\".\n\nThe correct answer is"
+    },
+    {
+      "intact": "However, his hypothesis was widely rejected because he lacked a plausible driving physical mechanism.",
+      "input": "plausible his hypothesis was widely rejected because he lacked a However, driving physical mechanism.",
+      "output": "The correct answer is:\n\nWord order: plausible his hypothesis was widely rejected because he lacked a\n\nWord order: plausible his hypothesis was widely rejected because he lacked a\n\nWord order: plausible his hypothesis was widely rejected because he lacked a\n\nWord order: plausible his hypothesis was widely"
+    },
+    {
+      "intact": "Operating with a clock speed of 1.024 megahertz, the AGC had 2,048 words of RAM and 36,864 words of core rope memory woven by hand.",
+      "input": "words with a clock speed of 1.024 megahertz, the AGC had 2,048 Operating of RAM and 36,864 words of core rope memory woven by hand.",
+      "output": "To reorder the words into the original grammatical sentence, we can use the `split` method of the string class to split the words into individual words, and then iterate over each word to find its corresponding position in the sentence.\n\nHere's an example implementation:\n\n```python\ndef"
+    },
+    {
+      "intact": "When cracks form and seawater infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures.",
+      "input": "When cracks form and seawater infiltrates, these lime clasts dissolve and self-healing as calcium carbonate, autogenously recrystallize fractures.",
+      "output": "The original sentence: When cracks form and seawater infiltrates, these lime clasts dissolve and self-healing as calcium carbonate, autogenously recrystallize fractures."
+    },
+    {
+      "intact": "The first successful message was transmitted on October 29, 1969, between Leonard Kleinrock's laboratory at UCLA and Douglas Engelbart's SRI International system.",
+      "input": "The first International message was transmitted on October 29, 1969, between Leonard Kleinrock's laboratory at UCLA and Douglas Engelbart's SRI successful system.",
+      "output": "Here's how you can implement this in Python:\n\n```python\ndef reorder_words(words):\n    reordered_words = []\n    for word in words:\n        if word[0].isupper():\n            reordered_words.append(word[1:])\n        elif word"
+    },
+    {
+      "intact": "Utilizing ATP and NADPH generated during the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P), yielding glucose precursors while regenerating RuBP.",
+      "input": "Utilizing ATP reduced NADPH generated during the light-dependent reactions, 3-PGA is and into glyceraldehyde 3-phosphate (G3P), yielding glucose precursors while regenerating RuBP.",
+      "output": "Here is the breakdown of the original sentence:\n\n\"Utilizing ATP reduced NADPH generated during the light-dependent reactions, 3-PGA is and into glyceraldehyde 3-phosphate (G3P).\"\n\nThe words are rearranged to form a new sentence:"
+    }
+  ],
+  "shuffle_15pct": [
+    {
+      "intact": "In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies.",
+      "input": "In 1995, Hubble captured the revealing Field image Deep over 3,000 ancient galaxies.",
+      "output": "Here's the output:\n\nIn 1995, Hubble captured the revealing Field image Deep over 3,000 ancient galaxies."
+    },
+    {
+      "intact": "Discovered originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections.",
+      "input": "against loci as an adaptive immune mechanism in bacteria Discovered bacteriophages, CRISPR originally store spacer DNA sequences from past viral infections.",
+      "output": "Here's how I would reorder the words:\n\n* \"Discovered bacteriophages, CRISPR originally store spacer DNA sequences from past viral infections\"\n* \"Diverse bacteriophages, CRISPR originally store spacer DNA sequences from past viral infections\"\n* \"In addition to bacteri"
+    },
+    {
+      "intact": "While classical computers encode information in binary bits (0 or 1), quantum processors utilize quantum bits or qubits.",
+      "input": "While classical computers or quantum in binary bits (0 or 1), information processors utilize quantum bits encode qubits.",
+      "output": "The original sentence is: While classical computers or quantum in binary bits (0 or 1), information processors utilize quantum bits encode qubits."
+    },
+    {
+      "intact": "Gutenberg combined movable type cast from a lead-tin-antimony alloy with oil-based ink and an adapted wooden screw agricultural press.",
+      "input": "Gutenberg combined movable type cast from a lead-tin-antimony alloy with agricultural ink and an adapted wooden oil-based screw press.",
+      "output": "The words rearranged are: Gutenberg combined movable type cast from a lead-tin-antimony alloy with agricultural ink and an adapted wooden oil-based screw press."
+    },
+    {
+      "intact": "The architecture introduced multi-head attention, scaled dot-product attention, sinusoidal positional encodings, and feed-forward sublayers with residual connections.",
+      "input": "The sinusoidal multi-head introduced attention, scaled dot-product attention, architecture positional encodings, and feed-forward sublayers with residual connections.",
+      "output": "The sinusoidal multi-head introduced attention, scaled dot-product attention, architecture positional encodings, and feed-forward sublayers with residual connections.\n\nHere's an example of a sentence that would be reordered:\n\n```\nThe sinusoidal multi-head introduced attention, scaled"
+    },
+    {
+      "intact": "In August 2012, Voyager 1 crossed the heliopause at 121 astronomical units (AU) from the Sun, becoming the first human-made object to enter interstellar space.",
+      "input": "In August 2012, Voyager 1 human-made the the at 121 astronomical units (AU) from heliopause Sun, becoming the first crossed object to enter interstellar space.",
+      "output": "To rearrange these words into the original grammatical sentence, we need to identify the words that modify the original sentence and rearrange them to form the new sentence.\n\nHere is the implementation of the `reorder_words` function in Python:\n\n```python\ndef reorder_words(original"
+    },
+    {
+      "intact": "A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself.",
+      "input": "A blue-green fungal mold, a zone as Penicillium notatum, had generated later clear identified of bacterial lysis around itself.",
+      "output": "The original sentence is: A blue-green fungal mold, a zone as Penicillium notatum, had generated later clear identified of bacterial lysis around itself.\n\nThe sentence is: \"A blue-green fungal mold, a zone as Penicillium notatum, had generated"
+    },
+    {
+      "intact": "However, his hypothesis was widely rejected because he lacked a plausible driving physical mechanism.",
+      "input": "However, his hypothesis was widely rejected because driving lacked a plausible he physical mechanism.",
+      "output": "The goal is to sort words into their grammatical order. The original sentence is: \"However, his hypothesis was widely rejected because driving lacked a plausible he physical mechanism.\" The order of the words is:\n\nA. \"However\"\nB. \"his\"\nC. \"hypothesis\""
+    },
+    {
+      "intact": "Operating with a clock speed of 1.024 megahertz, the AGC had 2,048 words of RAM and 36,864 words of core rope memory woven by hand.",
+      "input": "Operating with a of speed of 1.024 megahertz, the AGC had 2,048 words of RAM and 36,864 words clock woven by memory core rope hand.",
+      "output": "To reorder the words into the original grammatical sentence, we can use the `split` method of the string class to split the words into individual words and then use the `split` method again to separate the words into the original order.\n\nWe can use the `split` method to split"
+    },
+    {
+      "intact": "When cracks form and seawater infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures.",
+      "input": "When cracks seawater and form infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures.",
+      "output": "The original sentence: When cracks seawater and form infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures."
+    },
+    {
+      "intact": "The first successful message was transmitted on October 29, 1969, between Leonard Kleinrock's laboratory at UCLA and Douglas Engelbart's SRI International system.",
+      "input": "The first successful message Douglas at on October 29, 1969, UCLA Leonard Kleinrock's laboratory transmitted between and was Engelbart's SRI International system.",
+      "output": "You have been asked to rewrite the sentence \"The first successful message Douglas at on October 29, 1969, UCLA Leonard Kleinrock's laboratory transmitted between and was Engelbart's SRI International system.\" into the original sentence.\n\nHere's the original sentence: \""
+    },
+    {
+      "intact": "Utilizing ATP and NADPH generated during the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P), yielding glucose precursors while regenerating RuBP.",
+      "input": "Utilizing ATP and NADPH during while the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P), yielding glucose generated precursors regenerating RuBP.",
+      "output": "Here is the breakdown of the original sentence:\n\n\"Utilizing ATP and NADPH during while the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P).\"\n\nThe words are rearranged to form a new sentence:"
+    }
+  ],
+  "shuffle_30pct": [
+    {
+      "intact": "In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies.",
+      "input": "In revealing ancient captured the Deep Field image 1995, Hubble 3,000 over galaxies.",
+      "output": "Here's the output:\n\nIn revealing ancient captured the Deep Field image 1995, Hubble 3,000 over galaxies."
+    },
+    {
+      "intact": "Discovered originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections.",
+      "input": "Discovered originally viral DNA adaptive immune sequences in bacteria store bacteriophages, CRISPR loci against spacer mechanism an from as past infections.",
+      "output": "Here's how I would reorder the words:\n\n**Original Sentence:** Discovered originally viral DNA adaptive immune sequences in bacteria store bacteriophages, CRISPR loci against spacer mechanism an from as past infections.\n\n**Reordered Sentence:** Discovered originally viral DNA adaptive immune sequences in bacteria"
+    },
+    {
+      "intact": "While classical computers encode information in binary bits (0 or 1), quantum processors utilize quantum bits or qubits.",
+      "input": "in classical computers encode quantum While binary bits quantum or processors information (0 utilize 1), bits or qubits.",
+      "output": "The original sentence is: The classical computers encode quantum The information (0) while the qubits are the quantum or the processors."
+    },
+    {
+      "intact": "Gutenberg combined movable type cast from a lead-tin-antimony alloy with oil-based ink and an adapted wooden screw agricultural press.",
+      "input": "Gutenberg combined adapted type a from cast and agricultural with oil-based screw lead-tin-antimony an movable wooden ink alloy press.",
+      "output": "The words rearranged are:\n\n**Gutenberg combined**\n\n* Gutenberg\n* combined\n\n**Adapted type a from cast and agricultural with oil-based screw lead-tin-antimony an movable wooden ink alloy press**\n\n**Agricultural**\n\n* agricultural"
+    },
+    {
+      "intact": "The architecture introduced multi-head attention, scaled dot-product attention, sinusoidal positional encodings, and feed-forward sublayers with residual connections.",
+      "input": "sublayers The introduced encodings, attention, architecture dot-product residual sinusoidal positional multi-head and feed-forward scaled with attention, connections.",
+      "output": "The introduced encodings, attention, architecture dot-product residual sinusoidal positional multi-head and feed-forward scaled with attention, connections."
+    },
+    {
+      "intact": "In August 2012, Voyager 1 crossed the heliopause at 121 astronomical units (AU) from the Sun, becoming the first human-made object to enter interstellar space.",
+      "input": "In at object Voyager 1 crossed the becoming human-made 121 astronomical units (AU) enter the Sun, first the heliopause to 2012, August from interstellar space.",
+      "output": "To rearrange these words into the original grammatical sentence."
+    },
+    {
+      "intact": "A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself.",
+      "input": "A blue-green fungal a clear identified as Penicillium notatum, generated had mold, later zone of bacterial lysis around itself.",
+      "output": "The original sentence is: A blue-green fungal a clear identified as Penicillium notatum, generated had mold, later zone of bacterial lysis around itself.\n\nThe sentence is: \"A blue-green fungal a clear identified as Penicillium notatum, generated had mold"
+    },
+    {
+      "intact": "However, his hypothesis was widely rejected because he lacked a plausible driving physical mechanism.",
+      "input": "However, driving hypothesis his widely rejected because a lacked he plausible was physical mechanism.",
+      "output": "The original sentence is: \"However, driving hypothesis his widely rejected because a lacks he plausible is a.\"\n\nThe rearranged sentence is: \"However, driving hypothesis his widely rejected because a lacks he plausible is a.\""
+    },
+    {
+      "intact": "Operating with a clock speed of 1.024 megahertz, the AGC had 2,048 words of RAM and 36,864 words of core rope memory woven by hand.",
+      "input": "Operating with a had core of clock megahertz, the RAM AGC of words of 2,048 and 36,864 words 1.024 speed rope memory woven by hand.",
+      "output": "To reorder the words into the original grammatical sentence, we can use the `split` method of the string class to split the words into individual words and then use the `split` method again to separate the words into words. We can then use the `split` method again to separate the words"
+    },
+    {
+      "intact": "When cracks form and seawater infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures.",
+      "input": "When lime cracks recrystallize seawater carbonate, and form clasts dissolve and these as calcium infiltrates, autogenously self-healing fractures.",
+      "output": "The original sentence, \"When lime cracks recrystallizes seawater carbonate, and form clasts dissolve and these as calcium infiltrates, autogenously self-healing fractures.\" is the output."
+    },
+    {
+      "intact": "The first successful message was transmitted on October 29, 1969, between Leonard Kleinrock's laboratory at UCLA and Douglas Engelbart's SRI International system.",
+      "input": "The first transmitted message was successful on October Kleinrock's Leonard 1969, between 29, laboratory Douglas UCLA and at Engelbart's SRI International system.",
+      "output": "Here's how you can do it in Python:\n\n```python\ndef reorder_words(words):\n    return [word.capitalize() if word.isalpha() else word.lower() for word in words]\n```"
+    },
+    {
+      "intact": "Utilizing ATP and NADPH generated during the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P), yielding glucose precursors while regenerating RuBP.",
+      "input": "Utilizing ATP and NADPH regenerating reduced the light-dependent reactions, 3-PGA is glyceraldehyde during precursors into (G3P), yielding glucose 3-phosphate while generated RuBP.",
+      "output": "Here is the breakdown of the original sentence:\n\n\"Utilizing ATP and NADPH regenerating reduced the light-dependent reactions, 3-PGA is glyceraldehyde during precursors into (G3P), yielding glucose 3-phosphate while generated RuBP.\"\n\nThe sentence is"
+    }
+  ],
+  "shuffle_50pct": [
+    {
+      "intact": "In 1995, Hubble captured the Deep Field image revealing over 3,000 ancient galaxies.",
+      "input": "Deep 1995, Hubble In Field the revealing image captured over 3,000 ancient galaxies.",
+      "output": "Here's the output:\n\nIn the original sentence, the word \"Deep\" is the first word, and the word \"Deep\" is the first word in the sentence. The sentence is divided into two parts: the first part is the word \"Deep\", and the second part is the word"
+    },
+    {
+      "intact": "Discovered originally as an adaptive immune mechanism in bacteria against bacteriophages, CRISPR loci store spacer DNA sequences from past viral infections.",
+      "input": "bacteria in as originally adaptive immune loci an from against bacteriophages, CRISPR store mechanism spacer Discovered sequences past DNA viral infections.",
+      "output": "Here's how I would do it:\n\n```python\ndef word_order_to_original_sentence(words):\n    original_sentence = \"\"\n    for word in words:\n        if word in \"abcdefghijklmnopqrstuvwxyz\":\n            original_sentence"
+    },
+    {
+      "intact": "While classical computers encode information in binary bits (0 or 1), quantum processors utilize quantum bits or qubits.",
+      "input": "While information quantum in computers utilize binary bits quantum or bits encode processors classical (0 1), or qubits.",
+      "output": "The original sentence is: While information quantum in computers utilizes binary bits quantum or qubits.\n\nThe order of the words in the sentence is: While information quantum in computers utilizes binary bits quantum or qubits."
+    },
+    {
+      "intact": "Gutenberg combined movable type cast from a lead-tin-antimony alloy with oil-based ink and an adapted wooden screw agricultural press.",
+      "input": "Gutenberg combined a agricultural cast an oil-based lead-tin-antimony alloy with adapted ink and from movable wooden type screw press.",
+      "output": "The words rearranged are:\n\n**Gutenberg combined a agricultural cast an oil-based lead-tin-antimony alloy with adapted ink and from movable wooden type screw press.**\n\nThe correct output is:\n\n**The word rearranged is: Gutenberg combined a agricultural cast an oil"
+    },
+    {
+      "intact": "The architecture introduced multi-head attention, scaled dot-product attention, sinusoidal positional encodings, and feed-forward sublayers with residual connections.",
+      "input": "The architecture multi-head dot-product attention, sinusoidal with and sublayers positional feed-forward attention, encodings, scaled residual introduced connections.",
+      "output": "The architecture multi-head dot-product attention, sinusoidal with and sublayers positional feed-forward attention, encodings, scaled residual introduced connections\n\nThe architecture multi-head dot-product attention, sinusoidal with and sublayers positional feed-forward attention, encodings, scaled residual"
+    },
+    {
+      "intact": "In August 2012, Voyager 1 crossed the heliopause at 121 astronomical units (AU) from the Sun, becoming the first human-made object to enter interstellar space.",
+      "input": "(AU) August the first 1 enter 2012, heliopause at units astronomical becoming In human-made the Sun, interstellar the Voyager from to object 121 crossed space.",
+      "output": "To rearrange the words in the sentence, you can:\n\n- Break down the sentence into individual words and rearrange them to form the original sentence.\n- Use a dictionary or a system to find the correct word order.\n- Check the dictionary to ensure that the word order is correct."
+    },
+    {
+      "intact": "A blue-green fungal mold, later identified as Penicillium notatum, had generated a clear zone of bacterial lysis around itself.",
+      "input": "bacterial had fungal blue-green later clear Penicillium around notatum, identified generated a mold, lysis of A as zone itself.",
+      "output": "The task is to rewrite these words in the original grammatical sentence, resulting in a sentence with the following structure:\n\nBacteria had fungal blue-green later clear Penicillium around notatum, identified generated a mold, lysis of A as zone itself.\n\nThis sentence is grammat"
+    },
+    {
+      "intact": "However, his hypothesis was widely rejected because he lacked a plausible driving physical mechanism.",
+      "input": "lacked his However, he widely physical because rejected hypothesis a plausible driving was mechanism.",
+      "output": "The original sentence is: \"Lacked his,\" \"Ruled,\" and \"Rejected Hypothesis a plausible driving was mechanism.\"\n\nHere's the revised sentence: \"Rejected Hypothesis a plausible driving was mechanism.\"\n\nThe modified sentence is: \"Lacked his,\" \"Ruled,\" and"
+    },
+    {
+      "intact": "Operating with a clock speed of 1.024 megahertz, the AGC had 2,048 words of RAM and 36,864 words of core rope memory woven by hand.",
+      "input": "speed with a RAM clock Operating 1.024 megahertz, core words had AGC of of 36,864 and words of 2,048 the by woven memory rope hand.",
+      "output": "To reorder the words into the original grammatical sentence, we can use the `split` method of the string class to split the words into individual words and then use the `split` method again to separate the words into the original words. We can then use the `split` method again to separate"
+    },
+    {
+      "intact": "When cracks form and seawater infiltrates, these lime clasts dissolve and recrystallize as calcium carbonate, autogenously self-healing fractures.",
+      "input": "recrystallize these dissolve When and infiltrates, cracks calcium clasts self-healing and autogenously as lime carbonate, seawater form fractures.",
+      "output": "The original sentence, \"Recrystallize these dissolve,\" is in the correct order. The word order is \"re-cal-ry-fy\" and the sentence is \"recrystallize\" and \"dissolve.\"\n\nHere's how we can implement this:\n\n```python\nimport"
+    },
+    {
+      "intact": "The first successful message was transmitted on October 29, 1969, between Leonard Kleinrock's laboratory at UCLA and Douglas Engelbart's SRI International system.",
+      "input": "Leonard first successful Kleinrock's International transmitted on October 29, 1969, UCLA between message at laboratory and was Douglas Engelbart's SRI The system.",
+      "output": "You have been asked to rewrite the sentence \"Leonard first successful Kleinrock's International transmitted on October 29, 1969, UCLA between message at laboratory and was Douglas Engelbart's SRI The system.\" into the original sentence.\n\nTo do this, you need"
+    },
+    {
+      "intact": "Utilizing ATP and NADPH generated during the light-dependent reactions, 3-PGA is reduced into glyceraldehyde 3-phosphate (G3P), yielding glucose precursors while regenerating RuBP.",
+      "input": "3-phosphate glucose and NADPH the ATP Utilizing 3-PGA reactions, while is during regenerating into generated (G3P), light-dependent reduced precursors yielding glyceraldehyde RuBP.",
+      "output": "Here is the solution:\n\n```python\ndef reorder_words(words):\n    # Define a function to reorder the words\n    def reorder(word):\n        if word in 'ATP':\n            return 'ATP'\n        elif word in 'G3P':\n            return"
+    }
+  ]
+}
