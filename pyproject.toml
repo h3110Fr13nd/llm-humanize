@@ -1,5 +1,5 @@
 [project]
-name = "llm-alignerr"
+name = "llm-humanize"
 version = "0.1.0"
 description = "Adaptive Decoding & Non-Autoregressive Paradigms for Text Humanization"
 readme = "README.md"
