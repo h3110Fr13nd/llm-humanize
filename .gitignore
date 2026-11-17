@@ -9,7 +9,9 @@ build/
 env/
 venv/
 
-# Jupyter Notebooks
+# Archives
+*.zip
+*.tar.gz
 .ipynb_checkpoints/
 
 # Caches & IDEs
