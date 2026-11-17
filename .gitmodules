@@ -1,3 +1,3 @@
-[submodule "models/smollm2-135M"]
-	path = models/smollm2-135M
-	url = https://huggingface.co/HuggingFaceTB/SmolLM2-135M
+[submodule "models/smollm2-135M-instruct"]
+	path = models/smollm2-135M-instruct
+	url = https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct
